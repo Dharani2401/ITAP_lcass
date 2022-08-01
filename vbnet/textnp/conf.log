@@ -1,0 +1,33 @@
+[17:10:03] I/launcher - Running 1 instances of WebDriver
+[17:10:03] I/hosted - Using the selenium server at http://localhost:4444/wd/hub
+Started
+null
+test_step_inputdemouser
+test_step_inputdemouser1
+test_step_click Login
+test_step_click Master Inventory
+test_step_click All
+test_step_click Submit
+[17:10:27] W/element - more than one element found for locator By(xpath,  //td) - the first result will be used
+[17:10:27] W/element - more than one element found for locator By(xpath,  //td) - the first result will be used
+[17:10:27] W/element - more than one element found for locator By(xpath,  //td) - the first result will be used
+test_step_click About.aspx
+[17:10:28] W/element - more than one element found for locator By(xpath,  //td) - the first result will be used
+[17:10:31] W/element - more than one element found for locator By(xpath,  //td) - the first result will be used
+Assertion Passed: Expected ï»¿<%@ Page Title="About" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="About.aspx.vb" Inherits="Team10BookShop.About" %>
+
+<asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
+    <h2><%: Title %>.</h2>
+    <h3>Your application description page.</h3>
+    <p>Use this area to provide additional information.</p>
+</asp:Content> for the Xpath/html/body/ngb-modal-window/div/div/div[2] contain . :Assertion Passed
+test_step_click ×
+test_step_click Log Out
+[32m.[0m
+
+
+1 spec, 0 failures
+Finished in 27.006 seconds
+
+[17:10:36] I/launcher - 0 instance(s) of WebDriver still running
+[17:10:36] I/launcher - chrome #01 passed
