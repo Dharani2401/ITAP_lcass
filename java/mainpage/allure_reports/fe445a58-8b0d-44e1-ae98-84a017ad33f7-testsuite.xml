@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1650973388184' stop='1650973413944'>
+    <name>java</name>
+    <title>java</title>
+    <test-cases>
+        <test-case start='1650973388184' status='passed' stop='1650973413944'>
+            <name>crudmultiplelocators</name>
+            <title>crudmultiplelocators</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot1' source='95f747d1-04c6-4a4a-9721-403eba1bcd3c-attachment.png' type='image/png' size='35115'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

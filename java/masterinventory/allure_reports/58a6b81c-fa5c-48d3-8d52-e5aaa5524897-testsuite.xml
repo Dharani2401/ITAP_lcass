@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1650963916647' stop='1650963987499'>
+    <name>java</name>
+    <title>java</title>
+    <test-cases>
+        <test-case start='1650963916648' status='passed' stop='1650963987497'>
+            <name>callchainpage</name>
+            <title>callchainpage</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot1' source='26aa1d46-333b-42a6-9d14-19fcdcb29cb6-attachment.png' type='image/png' size='35115'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

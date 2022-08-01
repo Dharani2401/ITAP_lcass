@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1650355095549' stop='1650355124881'>
+    <name>lcass</name>
+    <title>lcass</title>
+    <test-cases>
+        <test-case start='1650355095551' status='passed' stop='1650355124880'>
+            <name>spiderautofill</name>
+            <title>spiderautofill</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot1' source='77e8177b-1f70-4f38-a51f-5bded3d01c33-attachment.png' type='image/png' size='37867'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
