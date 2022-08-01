@@ -1,0 +1,144 @@
+[13:39:24] I/launcher - Running 1 instances of WebDriver
+[13:39:24] I/hosted - Using the selenium server at http://localhost:4444/wd/hub
+Started
+null
+test_step_inputdemouser
+test_step_inputdemouser1
+test_step_click Login
+test_step_click   Screen Report
+test_step_click Screen Definition
+test_step_click All
+test_step_click BookingReportForm.frm
+test_step_click Submit
+Assertion Passed: Expected Screen Definition Report for the Xpath/html/body/app-root/app-layout/section/app-cicsscreen-app/div[1]/app-page-header/div/div/ol/li[2] contain Screen Definition Report. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-cicsscreen-app/div[4]/div[1]/label is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-cicsscreen-app/div[4]/div[3]/label is present in current page. :Assertion Passed
+Assertion Passed:  /html/body/app-root/app-layout/section/app-cicsscreen-app/div[4]/div[5]/button is enabled. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-cicsscreen-app/div[5]/div[1]/div/div/div[1]/label is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-cicsscreen-app/div[5]/div[1]/div/div/div[2]/label is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-cicsscreen-app/div[5]/div[1]/div/a/img is present in current page. :Assertion Passed
+Assertion Passed: Expected FILENAME for the Xpath/html/body/app-root/app-layout/section/app-cicsscreen-app/div[5]/div[1]/div/div/div[3]/div[1]/div/table/thead/tr/th[1] is equal toFILENAME. :Assertion Passed
+Assertion Passed: Expected APPLICATION for the Xpath/html/body/app-root/app-layout/section/app-cicsscreen-app/div[5]/div[1]/div/div/div[3]/div[1]/div/table/thead/tr/th[2] is equal toAPPLICATION. :Assertion Passed
+Assertion Passed: Expected SCREENFIELD for the Xpath/html/body/app-root/app-layout/section/app-cicsscreen-app/div[5]/div[1]/div/div/div[3]/div[1]/div/table/thead/tr/th[3] is equal toSCREENFIELD. :Assertion Passed
+Assertion Passed: Expected TYPE for the Xpath/html/body/app-root/app-layout/section/app-cicsscreen-app/div[5]/div[1]/div/div/div[3]/div[1]/div/table/thead/tr/th[4] is equal toTYPE. :Assertion Passed
+Assertion Passed: Expected MDICHILD for the Xpath/html/body/app-root/app-layout/section/app-cicsscreen-app/div[5]/div[1]/div/div/div[3]/div[1]/div/table/thead/tr/th[5] is equal toMDICHILD. :Assertion Passed
+Assertion Passed: Expected TABINDEX for the Xpath/html/body/app-root/app-layout/section/app-cicsscreen-app/div[5]/div[1]/div/div/div[3]/div[1]/div/table/thead/tr/th[6] is equal toTABINDEX. :Assertion Passed
+Assertion Passed: Expected MULTILINE for the Xpath/html/body/app-root/app-layout/section/app-cicsscreen-app/div[5]/div[1]/div/div/div[3]/div[1]/div/table/thead/tr/th[7] is equal toMULTILINE. :Assertion Passed
+Assertion Passed: Expected CAPTION for the Xpath/html/body/app-root/app-layout/section/app-cicsscreen-app/div[5]/div[1]/div/div/div[3]/div[1]/div/table/thead/tr/th[8] is equal toCAPTION. :Assertion Passed
+Assertion Passed: Expected ENABLED for the Xpath/html/body/app-root/app-layout/section/app-cicsscreen-app/div[5]/div[1]/div/div/div[3]/div[1]/div/table/thead/tr/th[9] is equal toENABLED. :Assertion Passed
+Assertion Failed: Expected  for the Xpath/html/body/app-root/app-layout/section/app-cicsscreen-app/div[5]/div[1]/div/div/div[3]/div[1]/div/table/thead/tr/th[10] But has INTERVAL. :Assertion Failed
+[31mF[0m
+
+Failures:
+1) vb6 screendefinitionpage
+  Message:
+[31m    Failed: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.[0m
+  Stack:
+    NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+        at C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver.js:847:16
+        at new ManagedPromise (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1077:7)
+        at ControlFlow.promise (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2505:12)
+        at C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver.js:846:34
+        at C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1684:12
+        at ManagedPromise.invokeCallback_ (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1376:14)
+        at TaskQueue.execute_ (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+        at TaskQueue.executeNext_ (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+        at C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2927:27
+        at C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:668:7
+    From: Task: WebDriver.findElements(By(xpath, /html/body/app-root/app-layout/section/app-cicsscreen-app/div[5]/div[1]/div/div/div[3]/div[1]/div/table/thead/tr/th[11]))
+        at thenableWebDriverProxy.schedule (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver.js:807:17)
+        at thenableWebDriverProxy.findElements (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver.js:1048:19)
+        at C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\built\element.js:159:44
+        at ManagedPromise.invokeCallback_ (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1376:14)
+        at TaskQueue.execute_ (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+        at TaskQueue.executeNext_ (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+        at C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2927:27
+        at C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:668:7
+        at runMicrotasks (<anonymous>)
+        at processTicksAndRejections (node:internal/process/task_queues:96:5)Error
+        at ElementArrayFinder.applyAction_ (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\built\element.js:459:27)
+        at ElementArrayFinder.<computed> [as getText] (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\built\element.js:91:29)
+        at ElementFinder.<computed> [as getText] (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\built\element.js:831:22)
+        at UserContext.<anonymous> (D:\iTAP\Recorded_Scenarios\vb6\screendefinitionpage\spec.js:561:142)
+        at C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
+        at new ManagedPromise (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1077:7)
+        at ControlFlow.promise (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2505:12)
+        at schedulerExecute (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:95:18)
+        at TaskQueue.execute_ (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+        at TaskQueue.executeNext_ (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+    From: Task: Run it("screendefinitionpage") in control flow
+        at UserContext.<anonymous> (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:94:19)
+    From asynchronous test: 
+    Error
+        at Suite.<anonymous> (D:\iTAP\Recorded_Scenarios\vb6\screendefinitionpage\spec.js:8:21)
+        at Object.<anonymous> (D:\iTAP\Recorded_Scenarios\vb6\screendefinitionpage\spec.js:7:15)
+        at Module._compile (node:internal/modules/cjs/loader:1103:14)
+        at Object.Module._extensions..js (node:internal/modules/cjs/loader:1155:10)
+        at Module.load (node:internal/modules/cjs/loader:981:32)
+        at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+  Message:
+[31m    NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.[0m
+  Stack:
+    NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+        at C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver.js:847:16
+        at new ManagedPromise (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1077:7)
+        at ControlFlow.promise (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2505:12)
+        at C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver.js:846:34
+        at C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1684:12
+        at ManagedPromise.invokeCallback_ (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1376:14)
+        at TaskQueue.execute_ (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+        at TaskQueue.executeNext_ (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+        at C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2927:27
+        at C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:668:7
+    From: Task: WebDriver.findElements(By(xpath, /html/body/app-root/app-layout/section/app-cicsscreen-app/div[5]/div[1]/div/div/div[3]/div[1]/div/table/thead/tr/th[11]))
+        at thenableWebDriverProxy.schedule (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver.js:807:17)
+        at thenableWebDriverProxy.findElements (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver.js:1048:19)
+        at C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\built\element.js:159:44
+        at ManagedPromise.invokeCallback_ (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1376:14)
+        at TaskQueue.execute_ (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+        at TaskQueue.executeNext_ (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+        at C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2927:27
+        at C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:668:7
+        at runMicrotasks (<anonymous>)
+        at processTicksAndRejections (node:internal/process/task_queues:96:5)Error
+        at ElementArrayFinder.applyAction_ (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\built\element.js:459:27)
+        at ElementArrayFinder.<computed> [as getText] (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\built\element.js:91:29)
+        at ElementFinder.<computed> [as getText] (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\built\element.js:831:22)
+        at UserContext.<anonymous> (D:\iTAP\Recorded_Scenarios\vb6\screendefinitionpage\spec.js:561:142)
+        at C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
+        at new ManagedPromise (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1077:7)
+        at ControlFlow.promise (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2505:12)
+        at schedulerExecute (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:95:18)
+        at TaskQueue.execute_ (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+        at TaskQueue.executeNext_ (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+    From: Task: Run it("screendefinitionpage") in control flow
+        at UserContext.<anonymous> (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:94:19)
+    From asynchronous test: 
+    Error
+        at Suite.<anonymous> (D:\iTAP\Recorded_Scenarios\vb6\screendefinitionpage\spec.js:8:21)
+        at Object.<anonymous> (D:\iTAP\Recorded_Scenarios\vb6\screendefinitionpage\spec.js:7:15)
+        at Module._compile (node:internal/modules/cjs/loader:1103:14)
+        at Object.Module._extensions..js (node:internal/modules/cjs/loader:1155:10)
+        at Module.load (node:internal/modules/cjs/loader:981:32)
+        at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    From: Task: WebDriver.takeScreenshot()
+        at thenableWebDriverProxy.schedule (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver.js:807:17)
+        at thenableWebDriverProxy.takeScreenshot (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver.js:1085:17)
+        at run (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\built\browser.js:58:33)
+        at ProtractorBrowser.to.<computed> [as takeScreenshot] (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\built\browser.js:66:16)
+        at UserContext.<anonymous> (D:\iTAP\Recorded_Scenarios\vb6\screendefinitionpage\conf.js:30:14)
+
+1 spec, 1 failure
+Finished in 21.976 seconds
+
+[31mAn error was thrown in an afterAll[0m
+[31mAfterAll NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.[0m
+[13:39:49] I/launcher - 0 instance(s) of WebDriver still running
+[13:39:49] I/launcher - chrome #01 failed 1 test(s)
+[13:39:49] I/launcher - overall: 1 failed spec(s)
+[13:39:49] E/launcher - Process exited with error code 1

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="1" time="32.567">
+ <testsuite name="vb6" timestamp="2022-04-22T14:48:37" hostname="localhost" time="32.567" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="vb6" name="ruleharvestingcount" time="32.565" />
+ </testsuite>
+</testsuites>

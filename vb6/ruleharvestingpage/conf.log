@@ -1,0 +1,48 @@
+[12:49:55] I/launcher - Running 1 instances of WebDriver
+[12:49:55] I/hosted - Using the selenium server at http://localhost:4444/wd/hub
+Started
+null
+test_step_inputdemouser
+test_step_inputdemouser1
+test_step_click Login
+test_step_click Harvesting Reports
+test_step_click Rule Harvesting report
+test_step_click BOOKING
+test_step_click BookingReportForm.frm
+test_step_click PhoneBookingForm.frm
+test_step_click Combo2
+test_step_click Submit
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-bre/div[1]/app-page-header/div/div/ol/li[2] is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-bre/div[5]/div[3]/label is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-bre/div[6]/div[1]/label is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-bre/div[8]/div/div/div/div[1]/label is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-bre/div[8]/div/div/div/div[2]/label is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-bre/div[7]/div[3]/a/img is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-bre/div[8]/div/div/div/div[1]/label is present in current page. :Assertion Passed
+Assertion Passed: Expected COMPONENT_NAME for the Xpath/html/body/app-root/app-layout/section/app-bre/div[8]/div/div/div/div[3]/div[1]/div/table/thead/tr/th[1] is equal toCOMPONENT_NAME. :Assertion Passed
+Assertion Passed: Expected FUNCTION_NAME for the Xpath/html/body/app-root/app-layout/section/app-bre/div[8]/div/div/div/div[3]/div[1]/div/table/thead/tr/th[2] is equal toFUNCTION_NAME. :Assertion Passed
+Assertion Passed: Expected SCREENFIELD for the Xpath/html/body/app-root/app-layout/section/app-bre/div[8]/div/div/div/div[3]/div[1]/div/table/thead/tr/th[3] is equal toSCREENFIELD. :Assertion Passed
+Assertion Passed: Expected RULE_STATEMENT for the Xpath/html/body/app-root/app-layout/section/app-bre/div[8]/div/div/div/div[3]/div[1]/div/table/thead/tr/th[4] is equal toRULE_STATEMENT. :Assertion Passed
+Assertion Passed: Expected RULE_DESCRIPTION for the Xpath/html/body/app-root/app-layout/section/app-bre/div[8]/div/div/div/div[3]/div[1]/div/table/thead/tr/th[5] is equal toRULE_DESCRIPTION. :Assertion Passed
+Assertion Passed: Expected RULE_ID for the Xpath/html/body/app-root/app-layout/section/app-bre/div[8]/div/div/div/div[3]/div[1]/div/table/thead/tr/th[6] is equal toRULE_ID. :Assertion Passed
+Assertion Passed: Expected RULE_RELATION for the Xpath/html/body/app-root/app-layout/section/app-bre/div[8]/div/div/div/div[3]/div[1]/div/table/thead/tr/th[7] is equal toRULE_RELATION. :Assertion Passed
+Assertion Passed: Expected FUNCTION_CALLS for the Xpath/html/body/app-root/app-layout/section/app-bre/div[8]/div/div/div/div[3]/div[1]/div/table/thead/tr/th[8] is equal toFUNCTION_CALLS. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-bre/div[8]/div/div/div/div[3]/div[1]/div/table/thead/tr/th[9] is present in current page. :Assertion Passed
+Assertion Passed: Expected Showing 1 to 2 of 2 entries for the Xpath/html/body/app-root/app-layout/section/app-bre/div[8]/div/div/div/div[4] contain Showing 1 to 2 of 2 entries. :Assertion Passed
+test_step_click Log Out
+[32m.[0m
+
+
+1 spec, 0 failures
+Finished in 45.262 seconds
+
+[12:50:46] I/launcher - 0 instance(s) of WebDriver still running
+[12:50:46] I/launcher - chrome #01 passed

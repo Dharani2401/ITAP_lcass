@@ -1,0 +1,26 @@
+[22:50:56] I/launcher - Running 1 instances of WebDriver
+[22:50:56] I/hosted - Using the selenium server at http://localhost:4444/wd/hub
+Started
+null
+test_step_inputadmin
+test_step_inputadmin1
+test_step_click Login
+[22:51:18] W/element - more than one element found for locator By(xpath,  //a[@href="/vb6/masterinvApplication"]) - the first result will be used
+[22:51:19] W/element - more than one element found for locator By(xpath,  //a[@href="/vb6/masterinvApplication"]) - the first result will be used
+test_step_click   Master Inventory
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-masterinvapp/div[4]/div/div/div/div[5]/a[1] is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-masterinvapp/div[4]/div/div/div/div[5]/a[2] is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-masterinvapp/div[4]/div/div/div/div[5]/a[3] is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-masterinvapp/div[4]/div/div/div/div[5]/a[4] is present in current page. :Assertion Passed
+[32m.[0m
+
+
+1 spec, 0 failures
+Finished in 35.084 seconds
+
+[22:51:38] I/launcher - 0 instance(s) of WebDriver still running
+[22:51:38] I/launcher - chrome #01 passed

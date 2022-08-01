@@ -1,0 +1,24 @@
+[22:31:02] I/launcher - Running 1 instances of WebDriver
+[22:31:02] I/hosted - Using the selenium server at http://localhost:4444/wd/hub
+Started
+null
+test_step_inputadmin
+test_step_inputadmin1
+test_step_click Login
+test_step_click   Screen Report
+test_step_click Screen Definition
+test_step_click All
+test_step_click BookingReportForm.frm
+test_step_click Submit
+test_step_click Screen Validation
+test_step_click Submit
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-cicsvalidation-app/div[4]/div[4]/select/option[2] is present in current page. :Assertion Passed
+[32m.[0m
+
+
+1 spec, 0 failures
+Finished in 33.349 seconds
+
+[22:31:41] I/launcher - 0 instance(s) of WebDriver still running
+[22:31:41] I/launcher - chrome #01 passed

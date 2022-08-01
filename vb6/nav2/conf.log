@@ -1,0 +1,42 @@
+[15:14:44] I/launcher - Running 1 instances of WebDriver
+[15:14:44] I/hosted - Using the selenium server at http://localhost:4444/wd/hub
+Started
+null
+test_step_inputadmin
+test_step_inputadmin1
+test_step_click Login
+test_step_click   Glossary
+Assertion Passed: Expected Glossary Report for the Xpath/html/body/app-root/app-layout/section/app-bre/div[1]/app-page-header/div/div/ol/li[2] contain Glossary. :Assertion Passed
+test_step_click Variable Impact Report
+presence
+xpath in same page
+assert Variable Impact Report
+Variable Impact Report
+Assertion Passed: Expected Variable Impact Report for the Xpath/html/body/app-root/app-layout/section/app-impact/div[1]/app-page-header/div/div/ol/li[2] contain  Variable Impact Report . :Assertion Passed
+test_step_click Missing Component
+presence
+xpath in same page
+assert Missing Component
+Missing Component
+Assertion Passed: Expected Missing Component Report for the Xpath/html/body/app-root/app-layout/section/app-missingcompapp/div[1]/app-page-header/div/div/ol/li[2] contain  Missing Component . :Assertion Passed
+test_step_click Commented Lines Report
+presence
+xpath in same page
+assert Commented Lines Report
+Commented Lines Report
+Assertion Passed: Expected Commented Lines Report for the Xpath/html/body/app-root/app-layout/section/app-commentedlinesapp/div[1]/app-page-header/div/div/ol/li[2] contain  Commented Lines Report . :Assertion Passed
+test_step_click Technical Debt Report
+test_step_click Technical Debt Report
+test_step_click Technical Debt Report
+test_step_click Orphan Report
+Assertion Passed: Expected Orphan/Driver Reports for the Xpath/html/body/app-root/app-layout/section/app-orphanapp/div[1]/app-page-header/div/div/ol/li[2] contain Orphan/Driver Reports. :Assertion Passed
+test_step_click   User Guide
+Assertion Passed: Expected User Guide for the Xpath/html/body/app-root/app-layout/section/app-charts/div/app-page-header/div/div/ol/li[2] contain User Guide. :Assertion Passed
+[32m.[0m
+
+
+1 spec, 0 failures
+Finished in 50.646 seconds
+
+[15:15:42] I/launcher - 0 instance(s) of WebDriver still running
+[15:15:42] I/launcher - chrome #01 passed

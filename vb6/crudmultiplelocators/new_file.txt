@@ -1,0 +1,1 @@
+Open Browser    https://lcaas.techmahindra.com/vb6/login    ${BROWSER},Input Text    //input[@id="Uname"]    demouser,Input Text    //input[@id="Upwd"]    demouser1,Click Element    //button[@id="loginBtn"],Click Link    //a[@href="/vb6/CRUD"],Select Value    //select[@id="appln"]    All,Click Element    //button[@id="submitBtn"],Click Link    //a[@href="/vb6/login"]

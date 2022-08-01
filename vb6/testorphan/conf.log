@@ -1,0 +1,19 @@
+[15:22:53] I/launcher - Running 1 instances of WebDriver
+[15:22:53] I/hosted - Using the selenium server at http://localhost:4444/wd/hub
+Started
+null
+test_step_inputadmin
+test_step_inputadmin1
+test_step_click Login
+test_step_click Orphan/Driver Components
+Assertion Passed: Expected Orphan/Driver Components for the Xpath/html/body/app-root/app-layout/section/app-dashboard/div[1]/div[4]/div[1]/a/app-stat/div/div/div/div[2]/div[2] is equal toOrphan/Driver Components. :Assertion Passed
+test_step_click All
+test_step_click Submit
+[32m.[0m
+
+
+1 spec, 0 failures
+Finished in 23.188 seconds
+
+[15:23:22] I/launcher - 0 instance(s) of WebDriver still running
+[15:23:22] I/launcher - chrome #01 passed

@@ -1,0 +1,31 @@
+[22:21:41] I/launcher - Running 1 instances of WebDriver
+[22:21:41] I/hosted - Using the selenium server at http://localhost:4444/wd/hub
+Started
+null
+test_step_inputadmin
+test_step_inputadmin1
+test_step_click Login
+[22:22:04] W/element - more than one element found for locator By(xpath,  //a[@href="/vb6/CRUD"]) - the first result will be used
+[22:22:05] W/element - more than one element found for locator By(xpath,  //a[@href="/vb6/CRUD"]) - the first result will be used
+[22:22:10] W/element - more than one element found for locator By(xpath,  //a[@href="/vb6/CRUD"]) - the first result will be used
+test_step_click   CRUD
+[22:22:10] W/element - more than one element found for locator By(xpath,  //a[@href="/vb6/CRUD"]) - the first result will be used
+[22:22:10] W/element - more than one element found for locator By(xpath,  //a[@href="/vb6/CRUD"]) - the first result will be used
+test_step_click All
+test_step_click Submit
+test_step_click select * from TranMainTab where tranType='D' and (trandate >=# & DateFormat(fDate) & # and trandate <=# & DateFormat(tDate) & #) order by TranNo
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-formapp/div[4]/div/div/div/div[3]/div[2]/table/tbody/tr[1]/td[5] is present in current page. :Assertion Passed
+test_step_click Screen Report
+test_step_click Screen Validation
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-cicsvalidation-app/div[4]/div[4]/select/option[1] is present in current page. :Assertion Passed
+test_step_click Submit
+[32m.[0m
+
+
+1 spec, 0 failures
+Finished in 32.764 seconds
+
+[22:22:20] I/launcher - 0 instance(s) of WebDriver still running
+[22:22:20] I/launcher - chrome #01 passed
