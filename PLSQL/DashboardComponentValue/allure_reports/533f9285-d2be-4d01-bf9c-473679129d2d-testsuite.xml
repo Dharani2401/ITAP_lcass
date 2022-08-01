@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1650434444093' stop='1650434467746'>
+    <name>PLSQL</name>
+    <title>PLSQL</title>
+    <test-cases>
+        <test-case start='1650434444094' status='passed' stop='1650434467745'>
+            <name>DashboardComponentValue</name>
+            <title>DashboardComponentValue</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot1' source='d785ce6f-1c6f-4f2a-99a5-a31348b21896-attachment.png' type='image/png' size='35203'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

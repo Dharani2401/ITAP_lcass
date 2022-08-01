@@ -1,0 +1,34 @@
+[12:23:43] I/launcher - Running 1 instances of WebDriver
+[12:23:43] I/hosted - Using the selenium server at http://localhost:4444/wd/hub
+Started
+null
+test_step_inputadmin
+test_step_inputadmin1
+test_step_click Login
+test_step_click Technical Debt Report
+[12:24:06] W/element - more than one element found for locator By(xpath,  //a[@href="/plsql/orphanApplication"]) - the first result will be used
+[12:24:06] W/element - more than one element found for locator By(xpath,  //a[@href="/plsql/orphanApplication"]) - the first result will be used
+[12:24:06] W/element - more than one element found for locator By(xpath,  //a[@href="/plsql/orphanApplication"]) - the first result will be used
+test_step_click Orphan Report
+[12:24:06] W/element - more than one element found for locator By(xpath,  //a[@href="/plsql/orphanApplication"]) - the first result will be used
+[12:24:07] W/element - more than one element found for locator By(xpath,  //a[@href="/plsql/orphanApplication"]) - the first result will be used
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-orphanapp/div[3]/div[3]/select is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-orphanapp/div[4]/div/div/div/div[1]/label is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-orphanapp/div[4]/div/div/div/div[2]/label/input is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-orphanapp/div[4]/div/div/a/img is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-orphanapp/div[4]/div/div/div/div[3]/div[1]/div/table is present in current page. :Assertion Passed
+test_step_click Dashboard
+test_step_click Log Out
+[32m.[0m
+
+
+1 spec, 0 failures
+Finished in 28.342 seconds
+
+[12:24:17] I/launcher - 0 instance(s) of WebDriver still running
+[12:24:17] I/launcher - chrome #01 passed

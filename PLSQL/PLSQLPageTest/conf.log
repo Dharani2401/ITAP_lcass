@@ -1,0 +1,43 @@
+[10:51:38] I/launcher - Running 1 instances of WebDriver
+[10:51:38] I/hosted - Using the selenium server at http://localhost:4444/wd/hub
+Started
+null
+test_step_inputadmin
+test_step_inputadmin1
+test_step_click Login
+[10:52:29] W/element - more than one element found for locator By(xpath,  //a[@href="/plsql/masterinvApplication"]) - the first result will be used
+[10:52:30] W/element - more than one element found for locator By(xpath,  //a[@href="/plsql/masterinvApplication"]) - the first result will be used
+[10:52:30] W/element - more than one element found for locator By(xpath,  //a[@href="/plsql/masterinvApplication"]) - the first result will be used
+test_step_click   Master Inventory
+[10:52:30] W/element - more than one element found for locator By(xpath,  //a[@href="/plsql/masterinvApplication"]) - the first result will be used
+[10:52:32] W/element - more than one element found for locator By(xpath,  //a[@href="/plsql/masterinvApplication"]) - the first result will be used
+test_step_click X-Ref Report
+test_step_click   CRUD
+test_step_click   Glossary
+test_step_click   Spider
+test_step_click Flow Diagrams
+test_step_click Call Chain
+test_step_click Control Flow
+test_step_click Program Process Flow
+test_step_click Sankey Diagram
+test_step_click Business Rule Extraction
+test_step_click Detailed Report
+test_step_click Rules report
+test_step_click Rule Category
+test_step_click Variable Impact Report
+test_step_click Missing Component
+test_step_click Commented Lines Report
+test_step_click Technical Debt Report
+test_step_click Orphan Report
+test_step_click Drop Impact Report
+test_step_click Dashboard
+test_step_click Collapse Sidebar
+test_step_click Log Out
+[32m.[0m
+
+
+1 spec, 0 failures
+Finished in 98.086 seconds
+
+[10:53:24] I/launcher - 0 instance(s) of WebDriver still running
+[10:53:24] I/launcher - chrome #01 passed

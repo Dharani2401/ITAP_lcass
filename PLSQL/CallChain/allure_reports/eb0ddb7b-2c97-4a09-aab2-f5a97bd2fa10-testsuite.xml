@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1650348147621' stop='1650348175003'>
+    <name>PLSQL</name>
+    <title>PLSQL</title>
+    <test-cases>
+        <test-case start='1650348147622' status='passed' stop='1650348175002'>
+            <name>CallChain</name>
+            <title>CallChain</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot1' source='9c63d853-377e-4e27-8f41-d6d1c161c476-attachment.png' type='image/png' size='35203'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

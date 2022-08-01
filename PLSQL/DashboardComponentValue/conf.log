@@ -1,0 +1,21 @@
+[11:30:37] I/launcher - Running 1 instances of WebDriver
+[11:30:37] I/hosted - Using the selenium server at http://localhost:4444/wd/hub
+Started
+null
+test_step_inputadmin
+test_step_inputadmin1
+test_step_click Login
+test_step_click 12
+Assertion Passed: Expected 12 for the Xpath/html/body/app-root/app-layout/section/app-dashboard/div[1]/div[2]/div[1]/a/app-stat/div/div/div/div[2]/div[1]/h2 contain 12. :Assertion Passed
+test_step_click All
+test_step_click Submit
+Assertion Passed: Expected Showing 1 to 10 of 12 entries for the Xpath/html/body/app-root/app-layout/section/app-masterinvapp/div[4]/div/div/div/div[4] contain 12. :Assertion Passed
+test_step_click Log Out
+[32m.[0m
+
+
+1 spec, 0 failures
+Finished in 23.67 seconds
+
+[11:31:08] I/launcher - 0 instance(s) of WebDriver still running
+[11:31:08] I/launcher - chrome #01 passed

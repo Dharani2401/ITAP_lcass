@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1650352818878' stop='1650352837662'>
+    <name>PLSQL</name>
+    <title>PLSQL</title>
+    <test-cases>
+        <test-case start='1650352818878' status='passed' stop='1650352837661'>
+            <name>CollapseTest</name>
+            <title>CollapseTest</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot1' source='af8376ad-cafe-4d3b-96cf-758a1d5b225c-attachment.png' type='image/png' size='35203'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

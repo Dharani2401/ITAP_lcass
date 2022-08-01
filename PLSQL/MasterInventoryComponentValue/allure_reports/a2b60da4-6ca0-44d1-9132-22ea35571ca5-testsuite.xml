@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1650351887983' stop='1650351911932'>
+    <name>PLSQL</name>
+    <title>PLSQL</title>
+    <test-cases>
+        <test-case start='1650351887984' status='passed' stop='1650351911931'>
+            <name>MasterInventoryComponentValue</name>
+            <title>MasterInventoryComponentValue</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot1' source='ca948b64-90db-4567-8a18-c72433b3b25e-attachment.png' type='image/png' size='51864'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

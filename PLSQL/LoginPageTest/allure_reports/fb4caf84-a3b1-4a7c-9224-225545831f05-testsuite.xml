@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1650345212760' stop='1650345235950'>
+    <name>PLSQL</name>
+    <title>PLSQL</title>
+    <test-cases>
+        <test-case start='1650345212763' status='passed' stop='1650345235948'>
+            <name>LoginPageTest</name>
+            <title>LoginPageTest</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot1' source='1978cfec-cea7-4004-a8c4-cb0081b500e4-attachment.png' type='image/png' size='35203'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

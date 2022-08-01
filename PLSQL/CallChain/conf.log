@@ -1,0 +1,30 @@
+[11:32:21] I/launcher - Running 1 instances of WebDriver
+[11:32:21] I/hosted - Using the selenium server at http://localhost:4444/wd/hub
+Started
+null
+test_step_inputadmin
+test_step_inputadmin1
+test_step_click Login
+test_step_click Flow Diagrams
+test_step_click Call Chain
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-callchain-plsql-app/div[2]/div/div[2]/select is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-callchain-plsql-app/div[2]/div/div[4]/select is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-callchain-plsql-app/div[3]/div/div[2]/select is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-callchain-plsql-app/div[3]/div/div[4]/select is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-callchain-plsql-app/div[4]/div/div[2]/select is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-callchain-plsql-app/div[4]/div/div[3]/button is present in current page. :Assertion Passed
+test_step_click Log Out
+[32m.[0m
+
+
+1 spec, 0 failures
+Finished in 27.435 seconds
+
+[11:32:55] I/launcher - 0 instance(s) of WebDriver still running
+[11:32:55] I/launcher - chrome #01 passed

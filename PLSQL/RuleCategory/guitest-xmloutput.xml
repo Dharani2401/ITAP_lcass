@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="1" time="30.538">
+ <testsuite name="PLSQL" timestamp="2022-04-19T11:59:28" hostname="localhost" time="30.538" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="PLSQL" name="RuleCategory" time="30.535" />
+ </testsuite>
+</testsuites>
