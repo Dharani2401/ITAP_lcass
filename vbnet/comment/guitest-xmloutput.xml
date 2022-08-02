@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="1" time="52.749">
+ <testsuite name="vbnet" timestamp="2022-08-01T12:45:59" hostname="localhost" time="52.749" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="vbnet" name="comment" time="52.748" />
+ </testsuite>
+</testsuites>

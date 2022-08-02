@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1659336320656' stop='1659336379183'>
+    <name>vbnet</name>
+    <title>vbnet</title>
+    <test-cases>
+        <test-case start='1659336320657' status='passed' stop='1659336379182'>
+            <name>a11</name>
+            <title>a11</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot1' source='77e30b78-c49b-4467-ad5a-89b091bbd838-attachment.png' type='image/png' size='66174'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

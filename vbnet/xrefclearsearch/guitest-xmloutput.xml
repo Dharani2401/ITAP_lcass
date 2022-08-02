@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="1" time="39.548">
+ <testsuite name="vbnet" timestamp="2022-08-01T13:19:02" hostname="localhost" time="39.548" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="vbnet" name="xrefclearsearch" time="39.547" />
+ </testsuite>
+</testsuites>

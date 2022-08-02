@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="1" time="37.673">
+ <testsuite name="vbnet" timestamp="2022-08-01T13:04:06" hostname="localhost" time="37.673" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="vbnet" name="processflow" time="37.671" />
+ </testsuite>
+</testsuites>
