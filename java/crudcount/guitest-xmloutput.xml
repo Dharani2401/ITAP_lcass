@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="1" time="41.98">
+ <testsuite name="java" timestamp="2022-04-26T13:07:12" hostname="localhost" time="41.98" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="java" name="crudcount" time="41.975" />
+ </testsuite>
+</testsuites>

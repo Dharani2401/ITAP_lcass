@@ -1,0 +1,34 @@
+[12:46:50] I/launcher - Running 1 instances of WebDriver
+[12:46:50] I/hosted - Using the selenium server at http://localhost:4444/wd/hub
+Started
+null
+test_step_inputdemouser
+test_step_inputdemouser1
+test_step_click Login
+test_step_click Screen Report
+test_step_click Screen Definition
+test_step_click All
+test_step_click land.jsp
+test_step_click Submit
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-cicsscreen-app/div[4]/div[2]/select/option[2] is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-cicsscreen-app/div[4]/div[4]/select/option[2] is present in current page. :Assertion Passed
+Assertion Passed: Expected Showing 1 to 10 of 10 entries for the Xpath/html/body/app-root/app-layout/section/app-cicsscreen-app/div[5]/div[1]/div/div/div[4] is equal toShowing 1 to 10 of 10 entries. :Assertion Passed
+test_step_click WEBCONTENT
+test_step_click login.jsp
+test_step_click Submit
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-cicsscreen-app/div[4]/div[2]/select/option[3] is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-cicsscreen-app/div[4]/div[4]/select/option[5] is present in current page. :Assertion Passed
+Assertion Passed: Expected Showing 1 to 4 of 4 entries for the Xpath/html/body/app-root/app-layout/section/app-cicsscreen-app/div[5]/div[1]/div/div/div[4] is equal toShowing 1 to 4 of 4 entries. :Assertion Passed
+test_step_click Log Out
+[32m.[0m
+
+
+1 spec, 0 failures
+Finished in 57.131 seconds
+
+[12:47:53] I/launcher - 0 instance(s) of WebDriver still running
+[12:47:53] I/launcher - chrome #01 passed

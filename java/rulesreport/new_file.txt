@@ -1,0 +1,1 @@
+Open Browser    https://lcaas.techmahindra.com/java/login    ${BROWSER},Input Text    //input[@id="Uname"]    demouser,Input Text    //input[@id="Upwd"]    demouser1,Click Element    //button[@id="loginBtn"],Click Link    xpath=(//a)[10],Click Element    xpath=(//span)[10]

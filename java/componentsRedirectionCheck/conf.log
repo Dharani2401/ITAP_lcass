@@ -1,0 +1,13 @@
+[16:26:39] E/configParser - Error code: 105
+[16:26:39] E/configParser - Error message: configuration file D:\iTAP\Recorded_Scenarios\java\componentsRedirectionCheck\conf.js did not export a config object
+[16:26:39] E/configParser - Error: configuration file D:\iTAP\Recorded_Scenarios\java\componentsRedirectionCheck\conf.js did not export a config object
+    at ConfigParser.addFileConfig (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\built\configParser.js:141:19)
+    at Object.initFn [as init] (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\built\launcher.js:93:22)
+    at Object.<anonymous> (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\built\cli.js:227:10)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1155:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\bin\protractor:5:1)
