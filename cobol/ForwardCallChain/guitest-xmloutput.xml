@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<testsuites disabled="0" errors="0" failures="0" tests="1" time="28.716">
- <testsuite name="Cobol" timestamp="2022-04-22T19:10:41" hostname="localhost" time="28.716" errors="0" tests="1" skipped="0" disabled="0" failures="0">
-  <testcase classname="Cobol" name="ForwardCallChain" time="28.714" />
- </testsuite>
-</testsuites>

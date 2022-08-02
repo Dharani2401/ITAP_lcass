@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<testsuites disabled="0" errors="0" failures="0" tests="1" time="33.634">
- <testsuite name="Cobol" timestamp="2022-04-25T10:39:51" hostname="localhost" time="33.634" errors="0" tests="1" skipped="0" disabled="0" failures="0">
-  <testcase classname="Cobol" name="RulesReportParaNameDownloadButtonCheck" time="33.628" />
- </testsuite>
-</testsuites>

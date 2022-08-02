@@ -1,1 +1,0 @@
-Open Browser    https://lcaas.techmahindra.com/cobol/login    ${BROWSER},Input Text    //input[@id="Uname"]    admin,Input Text    //input[@id="Upwd"]    admin1,Click Element    //button[@id="loginBtn"],Click Element    xpath=(//h2)[2],Select Value    //select[@id="appln"]    All,Click Element    //button[@id="submitBtn"],Click Element    //td,Click Element    xpath=(//span)[33]

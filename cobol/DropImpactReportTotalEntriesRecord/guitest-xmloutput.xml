@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<testsuites disabled="0" errors="0" failures="0" tests="1" time="37.334">
- <testsuite name="Cobol" timestamp="2022-04-22T15:20:53" hostname="localhost" time="37.334" errors="0" tests="1" skipped="0" disabled="0" failures="0">
-  <testcase classname="Cobol" name="DropImpactReportTotalEntriesRecord" time="37.331" />
- </testsuite>
-</testsuites>
