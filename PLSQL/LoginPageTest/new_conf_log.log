@@ -1,2 +1,0 @@
-{'Date': '19/04/2022', 'Time': '10:43:58', 'Application Name': 'PLSQL', 'Scenario Name': 'LoginPageTest', 'Status': 'passed', 'Time in Seconds': '23s214ms', 'WebDriver Instance': '0 instance(s) of WebDriver still running', 'Message': [], 'Error lines in spec': [], 'Test Description': '1. Open browser and navigate to URL: "https://lcaas.techmahindra.com/plsql/" <br>2. Enter value `admin` in the field with id "Uname"<br>3. Enter value `admin1` in the field with id "Upwd"<br>4. Click on the button with id "loginBtn"<br>'},
-

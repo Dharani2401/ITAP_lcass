@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<testsuites disabled="0" errors="0" failures="0" tests="1" time="23.189">
- <testsuite name="PLSQL" timestamp="2022-04-19T10:43:32" hostname="localhost" time="23.189" errors="0" tests="1" skipped="0" disabled="0" failures="0">
-  <testcase classname="PLSQL" name="LoginPageTest" time="23.186" />
- </testsuite>
-</testsuites>
