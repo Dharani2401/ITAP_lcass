@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<testsuites disabled="0" errors="0" failures="0" tests="1" time="34.721">
- <testsuite name="Natural" timestamp="2022-04-13T13:14:42" hostname="localhost" time="34.721" errors="0" tests="1" skipped="0" disabled="0" failures="0">
-  <testcase classname="Natural" name="SankeyDiagram" time="34.716" />
- </testsuite>
-</testsuites>

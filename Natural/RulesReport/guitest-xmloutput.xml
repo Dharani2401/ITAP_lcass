@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<testsuites disabled="0" errors="0" failures="0" tests="1" time="36.126">
- <testsuite name="Natural" timestamp="2022-04-13T13:04:23" hostname="localhost" time="36.126" errors="0" tests="1" skipped="0" disabled="0" failures="0">
-  <testcase classname="Natural" name="RulesReport" time="36.124" />
- </testsuite>
-</testsuites>

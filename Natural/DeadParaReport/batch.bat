@@ -1,3 +1,0 @@
-
-          START /B cmd "cd D:\iTAP\Recorded_Scenarios\Natural\DeadParaReport\" && protractor D:\iTAP\Recorded_Scenarios\Natural\DeadParaReport\conf.js >D:\iTAP\Recorded_Scenarios\Natural\DeadParaReport\\conf.log
-          

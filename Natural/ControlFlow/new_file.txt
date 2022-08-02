@@ -1,1 +1,0 @@
-Open Browser    https://lcaas.techmahindra.com/natural/login    ${BROWSER},Input Text    //input[@id="Uname"]    admin,Input Text    //input[@id="Upwd"]    admin1,Click Element    //button[@id="loginBtn"],Click Element    xpath=(//span)[5],Click Element    xpath=(//span)[7],Click Link    xpath=(//a[@href="/natural/dashboard"])[2],Click Link    //a[@href="/natural/login"]

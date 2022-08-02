@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<testsuites disabled="0" errors="0" failures="0" tests="1" time="26.703">
- <testsuite name="Natural" timestamp="2022-04-21T17:13:29" hostname="localhost" time="26.703" errors="0" tests="1" skipped="0" disabled="0" failures="0">
-  <testcase classname="Natural" name="XRefReportClearSearch" time="26.7" />
- </testsuite>
-</testsuites>
