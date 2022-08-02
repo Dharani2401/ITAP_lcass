@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1650516847991' stop='1650516886561'>
+    <name>java</name>
+    <title>java</title>
+    <test-cases>
+        <test-case start='1650516847992' status='passed' stop='1650516886560'>
+            <name>spiderautofill</name>
+            <title>spiderautofill</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot1' source='466ac3e9-8d18-4335-aa02-3d04c6ddfe37-attachment.png' type='image/png' size='40515'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

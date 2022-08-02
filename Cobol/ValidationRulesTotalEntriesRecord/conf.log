@@ -1,0 +1,31 @@
+[13:56:10] I/launcher - Running 1 instances of WebDriver
+[13:56:10] I/hosted - Using the selenium server at http://localhost:4444/wd/hub
+Started
+null
+test_step_inputadmin
+test_step_inputadmin1
+test_step_click Login
+test_step_click CICS Screen Report
+test_step_click Validation Rules
+test_step_click ACCOUNTS PAYABLE
+test_step_click ACRV880.bms
+test_step_click Submit
+presence
+xpath in same page
+assert Validation Rules
+Validation Rules
+Assertion Passed: Expected Dashboard
+CICS Validation Rules Report for the Xpath/html/body/app-root/app-layout/section/app-cicsrules-app/div[1]/app-page-header/div/div/ol contain  Validation Rules . :Assertion Passed
+Assertion Passed: Expected Showing 1 to 5 of 5 entries for the Xpath/html/body/app-root/app-layout/section/app-cicsrules-app/div[4]/div/div/div/div[4] is equal toShowing 1 to 5 of 5 entries. :Assertion Passed
+test_step_click ADPG001.bms
+test_step_click Submit
+Assertion Passed: Expected Showing 0 to 0 of 0 entries for the Xpath/html/body/app-root/app-layout/section/app-cicsrules-app/div[4]/div/div/div/div[4] is equal toShowing 0 to 0 of 0 entries. :Assertion Passed
+test_step_click Log Out
+[32m.[0m
+
+
+1 spec, 0 failures
+Finished in 38.563 seconds
+
+[13:56:55] I/launcher - 0 instance(s) of WebDriver still running
+[13:56:55] I/launcher - chrome #01 passed

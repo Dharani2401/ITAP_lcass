@@ -1,0 +1,31 @@
+[14:58:04] I/launcher - Running 1 instances of WebDriver
+[14:58:04] I/hosted - Using the selenium server at http://localhost:4444/wd/hub
+Started
+null
+test_step_inputadmin
+test_step_inputadmin1
+test_step_click Login
+test_step_click Technical Debt Report
+test_step_click Orphan Report
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-orphanapp/div[3]/div[3]/select is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-orphanapp/div[3]/div[4]/button is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-orphanapp/div[4]/div/div/div/div[1]/label is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-orphanapp/div[4]/div/div/div/div[2]/label is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-orphanapp/div[4]/div/div/a/img is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-orphanapp/div[4]/div/div/div/div[3]/div[1]/div/table is present in current page. :Assertion Passed
+test_step_click Dashboard
+test_step_click Log Out
+[32m.[0m
+
+
+1 spec, 0 failures
+Finished in 31.754 seconds
+
+[14:58:42] I/launcher - 0 instance(s) of WebDriver still running
+[14:58:42] I/launcher - chrome #01 passed

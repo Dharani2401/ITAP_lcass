@@ -1,0 +1,53 @@
+[08:38:37] I/launcher - Running 1 instances of WebDriver
+[08:38:37] I/hosted - Using the selenium server at http://localhost:4444/wd/hub
+Started
+null
+test_step_inputadmin
+test_step_inputadmin1
+test_step_click Login
+[08:38:59] W/element - more than one element found for locator By(xpath,  //span) - the first result will be used
+[08:39:01] W/element - more than one element found for locator By(xpath,  //span) - the first result will be used
+[08:39:01] W/element - more than one element found for locator By(xpath,  //span) - the first result will be used
+test_step_click Dashboard
+[08:39:01] W/element - more than one element found for locator By(xpath,  //span) - the first result will be used
+[08:39:02] W/element - more than one element found for locator By(xpath,  //span) - the first result will be used
+test_step_click Master Inventory
+test_step_click X-Ref Report
+test_step_click   Spider
+test_step_click Flow Diagrams
+test_step_click Call Chain
+test_step_click MF Decomposition
+test_step_click   Control Flow
+test_step_click Program Process Flow
+test_step_click Dynamic Process Flow
+test_step_click View callchain
+test_step_click   Business Rule Extraction
+test_step_click Detailed Report
+test_step_click Rules report
+test_step_click Rule Category
+test_step_click Sankey Diagram
+test_step_click   CICS Screen Report
+test_step_click Screen Definition
+test_step_click Validation Rules
+test_step_click CICS X-Ref
+test_step_click   CRUD
+test_step_click Glossary
+test_step_click Variable Impact Report
+test_step_click Missing Component
+test_step_click Commented Lines Report
+test_step_click Technical Debt Report
+test_step_click Orphan Report
+test_step_click Drop Impact Report
+test_step_click Dead Para Report
+test_step_click   User Guide
+test_step_click Collapse Sidebar
+test_step_click Dashboard
+test_step_click Log Out
+[32m.[0m
+
+
+1 spec, 0 failures
+Finished in 62.27 seconds
+
+[08:39:45] I/launcher - 0 instance(s) of WebDriver still running
+[08:39:45] I/launcher - chrome #01 passed

@@ -1,0 +1,29 @@
+[18:57:00] I/launcher - Running 1 instances of WebDriver
+[18:57:00] I/hosted - Using the selenium server at http://localhost:4444/wd/hub
+Started
+null
+test_step_inputadmin
+test_step_inputadmin1
+test_step_click Login
+test_step_click   Master Inventory
+test_step_click All
+test_step_click Submit
+test_step_click   Spider
+Assertion Passed: Expected --Select Application--
+All
+ACCOUNTS PAYABLE
+ACCOUNTS RECEIVABLE
+COMMISSIONS
+DISTRICT PROCESSING
+FIXED ASSETS
+GENERAL LEDGER
+MACRO
+MISCELLANEOUS for the Xpath/html/body/app-root/app-layout/section/app-spiderfilterapp/div[2]/div/div[2]/select contain All. :Assertion Passed
+[32m.[0m
+
+
+1 spec, 0 failures
+Finished in 22.567 seconds
+
+[18:57:28] I/launcher - 0 instance(s) of WebDriver still running
+[18:57:28] I/launcher - chrome #01 passed

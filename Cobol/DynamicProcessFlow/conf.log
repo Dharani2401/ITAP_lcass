@@ -1,0 +1,28 @@
+[12:03:08] I/launcher - Running 1 instances of WebDriver
+[12:03:08] I/hosted - Using the selenium server at http://localhost:4444/wd/hub
+Started
+null
+test_step_inputadmin
+test_step_inputadmin1
+test_step_click Login
+test_step_click   Flow Diagrams
+test_step_click Dynamic Process Flow
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-programprocessflowext/div[5]/div[1]/div[1]/div[2]/select is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-programprocessflowext/div[5]/div[1]/div[2]/div[2]/select is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-programprocessflowext/div[5]/div[1]/div[1]/div[3]/button is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-programprocessflowext/div[5]/div[1]/div[2]/div[3]/button is present in current page. :Assertion Passed
+test_step_click View callchain
+test_step_click Dashboard
+test_step_click Log Out
+[32m.[0m
+
+
+1 spec, 0 failures
+Finished in 32.551 seconds
+
+[12:03:48] I/launcher - 0 instance(s) of WebDriver still running
+[12:03:48] I/launcher - chrome #01 passed

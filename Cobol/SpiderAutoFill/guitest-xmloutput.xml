@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="1" time="22.553">
+ <testsuite name="Cobol" timestamp="2022-04-22T18:57:05" hostname="localhost" time="22.553" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Cobol" name="SpiderAutoFill" time="22.551" />
+ </testsuite>
+</testsuites>
