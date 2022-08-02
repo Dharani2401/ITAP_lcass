@@ -1,0 +1,25 @@
+[15:55:41] I/launcher - Running 1 instances of WebDriver
+[15:55:41] I/hosted - Using the selenium server at http://localhost:4444/wd/hub
+Started
+null
+test_step_inputadmin
+test_step_inputadmin1
+test_step_click Login
+test_step_click Technical Debt Report
+test_step_click Drop Impact Report
+test_step_click All
+test_step_click Submit
+Assertion Passed: Expected Drop Impact Report for the Xpath/html/body/app-root/app-layout/section/app-dropimpactapp/div[1]/app-page-header/div/div/ol/li[2] contain Drop Impact Report. :Assertion Passed
+Assertion Passed: Expected Showing 1 to 10 of 328 entries for the Xpath/html/body/app-root/app-layout/section/app-dropimpactapp/div[4]/div/div/div/div[4] is equal toShowing 1 to 10 of 328 entries. :Assertion Passed
+test_step_click Unknown
+test_step_click Submit
+Assertion Passed: Expected Showing 1 to 10 of 328 entries for the Xpath/html/body/app-root/app-layout/section/app-dropimpactapp/div[4]/div/div/div/div[4] is equal toShowing 1 to 10 of 328 entries. :Assertion Passed
+test_step_click Log Out
+[32m.[0m
+
+
+1 spec, 0 failures
+Finished in 37.603 seconds
+
+[15:56:24] I/launcher - 0 instance(s) of WebDriver still running
+[15:56:24] I/launcher - chrome #01 passed

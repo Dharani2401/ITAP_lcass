@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1650441649165' stop='1650441678497'>
+    <name>AS400</name>
+    <title>AS400</title>
+    <test-cases>
+        <test-case start='1650441649166' status='passed' stop='1650441678496'>
+            <name>DropImpactReport</name>
+            <title>DropImpactReport</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot1' source='4c95a063-911d-4d38-9ea5-3eb9c32aafcb-attachment.png' type='image/png' size='35203'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

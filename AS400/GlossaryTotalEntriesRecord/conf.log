@@ -1,0 +1,18 @@
+[15:24:15] I/launcher - Running 1 instances of WebDriver
+[15:24:15] I/hosted - Using the selenium server at http://localhost:4444/wd/hub
+Started
+null
+test_step_inputadmin
+test_step_inputadmin1
+test_step_click Login
+test_step_click   Glossary
+Assertion Passed: Expected Showing 1 to 10 of 2,666 entries for the Xpath/html/body/app-root/app-layout/section/app-bre/div[4]/div[1]/div/div/div[4] contain Showing 1 to 10 of 2. :Assertion Passed
+test_step_click Log Out
+[32m.[0m
+
+
+1 spec, 0 failures
+Finished in 25.605 seconds
+
+[15:24:46] I/launcher - 0 instance(s) of WebDriver still running
+[15:24:46] I/launcher - chrome #01 passed

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="1" time="18.331">
+ <testsuite name="AS400" timestamp="2022-04-20T13:55:07" hostname="localhost" time="18.331" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="AS400" name="EmptyTable" time="18.328" />
+ </testsuite>
+</testsuites>

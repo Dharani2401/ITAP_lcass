@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1650441356030' stop='1650441383750'>
+    <name>AS400</name>
+    <title>AS400</title>
+    <test-cases>
+        <test-case start='1650441356031' status='passed' stop='1650441383749'>
+            <name>OrphanReport</name>
+            <title>OrphanReport</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot1' source='b4c4fdbb-5ece-4d21-8354-e9f178b54e1f-attachment.png' type='image/png' size='35203'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

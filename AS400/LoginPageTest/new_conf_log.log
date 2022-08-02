@@ -1,0 +1,2 @@
+{'Date': '20/04/2022', 'Time': '11:58:57', 'Application Name': 'AS400', 'Scenario Name': 'LoginPageTest', 'Status': 'passed', 'Time in Seconds': '18s243ms', 'WebDriver Instance': '0 instance(s) of WebDriver still running', 'Message': [], 'Error lines in spec': [], 'Test Description': '1. Open browser and navigate to URL: "https://lcaas.techmahindra.com/as400/" <br>2. Enter value `admin` in the field with id "Uname"<br>3. Enter value `admin1` in the field with id "Upwd"<br>4. Click on the button with id "loginBtn"<br>'},
+

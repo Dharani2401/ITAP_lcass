@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1650442628753' stop='1650442652265'>
+    <name>AS400</name>
+    <title>AS400</title>
+    <test-cases>
+        <test-case start='1650442628754' status='passed' stop='1650442652264'>
+            <name>MasterInventoryComponentValue</name>
+            <title>MasterInventoryComponentValue</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot1' source='dc795073-a6ec-4914-9284-007acf0a1bfc-attachment.png' type='image/png' size='62204'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

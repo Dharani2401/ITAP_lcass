@@ -1,0 +1,18 @@
+[13:55:02] I/launcher - Running 1 instances of WebDriver
+[13:55:02] I/hosted - Using the selenium server at http://localhost:4444/wd/hub
+Started
+null
+test_step_inputadmin
+test_step_inputadmin1
+test_step_click Login
+test_step_click Master Inventory
+Assertion Passed: Expected No data available in table for the Xpath/html/body/app-root/app-layout/section/app-masterinvapp/div[4]/div/div/div/div[3]/div[2]/table/tbody/tr/td is equal toNo data available in table. :Assertion Passed
+test_step_click Log Out
+[32m.[0m
+
+
+1 spec, 0 failures
+Finished in 18.351 seconds
+
+[13:55:26] I/launcher - 0 instance(s) of WebDriver still running
+[13:55:26] I/launcher - chrome #01 passed

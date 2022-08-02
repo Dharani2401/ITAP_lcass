@@ -1,0 +1,44 @@
+[11:25:38] I/launcher - Running 1 instances of WebDriver
+[11:25:38] I/hosted - Using the selenium server at http://localhost:4444/wd/hub
+Started
+Application name: AS400, Scenario name : AS400PageTest
+null
+test_step_inputadmin
+test_step_inputadmin1
+test_step_click Login
+[11:26:07] W/element - more than one element found for locator By(xpath,  //a[@href="/as400/masterinvApplication"]) - the first result will be used
+[11:26:07] W/element - more than one element found for locator By(xpath,  //a[@href="/as400/masterinvApplication"]) - the first result will be used
+[11:26:07] W/element - more than one element found for locator By(xpath,  //a[@href="/as400/masterinvApplication"]) - the first result will be used
+test_step_click   Master Inventory
+[11:26:07] W/element - more than one element found for locator By(xpath,  //a[@href="/as400/masterinvApplication"]) - the first result will be used
+[11:26:10] W/element - more than one element found for locator By(xpath,  //a[@href="/as400/masterinvApplication"]) - the first result will be used
+test_step_click   X-Ref Report
+test_step_click   CRUD
+test_step_click   Glossary
+test_step_click   Spider
+test_step_click Flow Diagrams
+test_step_click Call Chain
+test_step_click Control Flow
+test_step_click Program Process Flow
+test_step_click Sankey Diagram
+test_step_click   Business Rule Extraction
+test_step_click Detailed Report
+test_step_click Rules report
+test_step_click Rule Category
+test_step_click Screen Definition Report
+test_step_click Missing Component
+test_step_click Commented Lines Report
+test_step_click Technical Debt Report
+test_step_click Orphan Report
+test_step_click Drop Impact Report
+test_step_click Dead Para Report
+test_step_click Collapse Sidebar
+test_step_click Log Out
+[32m.[0m
+
+
+1 spec, 0 failures
+Finished in 42.778 seconds
+
+[11:26:25] I/launcher - 0 instance(s) of WebDriver still running
+[11:26:25] I/launcher - chrome #01 passed

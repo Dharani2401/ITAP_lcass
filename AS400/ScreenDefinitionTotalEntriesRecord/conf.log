@@ -1,0 +1,29 @@
+[15:11:46] I/launcher - Running 1 instances of WebDriver
+[15:11:46] I/hosted - Using the selenium server at http://localhost:4444/wd/hub
+Started
+null
+test_step_inputadmin
+test_step_inputadmin1
+test_step_click Login
+test_step_click Screen Definition Report
+test_step_click All
+test_step_click TSGPDTWD
+test_step_click Submit
+presence
+xpath in same page
+assert Screen Definition Report
+Screen Definition Report
+Assertion Passed: Expected Screen Definition Report for the Xpath/html/body/app-root/app-layout/section/app-cicsscreen-app/div[1]/app-page-header/div/div/ol/li[2] contain  Screen Definition Report . :Assertion Passed
+Assertion Passed: Expected Showing 1 to 5 of 5 entries for the Xpath/html/body/app-root/app-layout/section/app-cicsscreen-app/div[5]/div[1]/div/div/div[4] is equal toShowing 1 to 5 of 5 entries. :Assertion Passed
+test_step_click TSSKYEVTD
+test_step_click Submit
+Assertion Passed: Expected Showing 1 to 10 of 87 entries for the Xpath/html/body/app-root/app-layout/section/app-cicsscreen-app/div[5]/div[1]/div/div/div[4] is equal toShowing 1 to 10 of 87 entries. :Assertion Passed
+test_step_click Log Out
+[32m.[0m
+
+
+1 spec, 0 failures
+Finished in 34.175 seconds
+
+[15:12:27] I/launcher - 0 instance(s) of WebDriver still running
+[15:12:27] I/launcher - chrome #01 passed

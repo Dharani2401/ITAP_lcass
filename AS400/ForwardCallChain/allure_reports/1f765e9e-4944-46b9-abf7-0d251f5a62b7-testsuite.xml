@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1650884068734' stop='1650884100256'>
+    <name>AS400</name>
+    <title>AS400</title>
+    <test-cases>
+        <test-case start='1650884068736' status='passed' stop='1650884100254'>
+            <name>ForwardCallChain</name>
+            <title>ForwardCallChain</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot1' source='fe4784c3-866f-4420-b965-a0402cfddb9e-attachment.png' type='image/png' size='40735'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,31 @@
+[14:08:11] I/launcher - Running 1 instances of WebDriver
+[14:08:11] I/hosted - Using the selenium server at http://localhost:4444/wd/hub
+Started
+null
+test_step_inputadmin
+test_step_inputadmin1
+test_step_click Login
+test_step_click   Business Rule Extraction
+test_step_click Detailed Report
+test_step_click Fleet Management
+test_step_click IAC608.RPG
+test_step_click Submit
+presence
+xpath in same page
+assert Detailed Report
+Detailed Report
+Assertion Passed: Expected Detailed Report for the Xpath/html/body/app-root/app-layout/section/app-bre/div[1]/app-page-header/div/div/ol/li[2] contain  Detailed Report . :Assertion Passed
+Assertion Passed: Expected Showing 1 to 10 of 3,571 entries for the Xpath/html/body/app-root/app-layout/section/app-bre/div[5]/div/div/div/div[4] contain Showing 1 to 10 of 3. :Assertion Passed
+test_step_click Order Management
+test_step_click IAC001.RPG
+test_step_click Submit
+Assertion Passed: Expected Showing 1 to 10 of 1,981 entries for the Xpath/html/body/app-root/app-layout/section/app-bre/div[5]/div/div/div/div[4] contain Showing 1 to 10 of 1. :Assertion Passed
+test_step_click Log Out
+[32m.[0m
+
+
+1 spec, 0 failures
+Finished in 34.712 seconds
+
+[14:08:52] I/launcher - 0 instance(s) of WebDriver still running
+[14:08:52] I/launcher - chrome #01 passed

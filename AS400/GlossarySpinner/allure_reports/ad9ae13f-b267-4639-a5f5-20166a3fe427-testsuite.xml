@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1650885118019' stop='1650885140850'>
+    <name>AS400</name>
+    <title>AS400</title>
+    <test-cases>
+        <test-case start='1650885118020' status='passed' stop='1650885140848'>
+            <name>GlossarySpinner</name>
+            <title>GlossarySpinner</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot1' source='c74f5fbe-f02b-4503-b279-7e107560a66f-attachment.png' type='image/png' size='56674'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

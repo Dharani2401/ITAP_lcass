@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1650884933907' stop='1650884974836'>
+    <name>AS400</name>
+    <title>AS400</title>
+    <test-cases>
+        <test-case start='1650884933908' status='passed' stop='1650884974835'>
+            <name>RulesReportParaNameDownloadButtonCheck</name>
+            <title>RulesReportParaNameDownloadButtonCheck</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot1' source='24cc71c9-d914-40de-87d6-95438841efb9-attachment.png' type='image/png' size='20859'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

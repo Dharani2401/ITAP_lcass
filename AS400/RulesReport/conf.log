@@ -1,0 +1,33 @@
+[12:48:51] I/launcher - Running 1 instances of WebDriver
+[12:48:51] I/hosted - Using the selenium server at http://localhost:4444/wd/hub
+Started
+null
+test_step_inputadmin
+test_step_inputadmin1
+test_step_click Login
+test_step_click Business Rule Extraction
+test_step_click Rules report
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-bre/div[5]/div[2]/select is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-bre/div[5]/div[4]/select is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-bre/div[5]/div[5]/button is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-bre/div[7]/div/div/div/div[2]/label is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-bre/div[7]/div/div/div/div[1]/label is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-bre/div[6]/div[3]/a/img is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-bre/div[7]/div/div/div/div[3]/div[1]/div/table is present in current page. :Assertion Passed
+test_step_click Dashboard
+test_step_click Log Out
+[32m.[0m
+
+
+1 spec, 0 failures
+Finished in 30.788 seconds
+
+[12:49:29] I/launcher - 0 instance(s) of WebDriver still running
+[12:49:29] I/launcher - chrome #01 passed

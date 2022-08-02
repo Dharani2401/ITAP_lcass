@@ -1,0 +1,30 @@
+[15:48:46] I/launcher - Running 1 instances of WebDriver
+[15:48:46] I/hosted - Using the selenium server at http://localhost:4444/wd/hub
+Started
+null
+test_step_inputadmin
+test_step_inputadmin1
+test_step_click Login
+test_step_click Technical Debt Report
+[15:49:12] W/element - more than one element found for locator By(xpath,  //a[@href="/as400/orphanApplication"]) - the first result will be used
+[15:49:12] W/element - more than one element found for locator By(xpath,  //a[@href="/as400/orphanApplication"]) - the first result will be used
+[15:49:12] W/element - more than one element found for locator By(xpath,  //a[@href="/as400/orphanApplication"]) - the first result will be used
+test_step_click Orphan Report
+[15:49:12] W/element - more than one element found for locator By(xpath,  //a[@href="/as400/orphanApplication"]) - the first result will be used
+[15:49:13] W/element - more than one element found for locator By(xpath,  //a[@href="/as400/orphanApplication"]) - the first result will be used
+test_step_click All
+test_step_click Submit
+Assertion Passed: Expected Orphan/Driver Reports for the Xpath/html/body/app-root/app-layout/section/app-orphanapp/div[1]/app-page-header/div/div/ol/li[2] contain Orphan/Driver Reports. :Assertion Passed
+Assertion Passed: Expected Showing 1 to 8 of 8 entries for the Xpath/html/body/app-root/app-layout/section/app-orphanapp/div[4]/div/div/div/div[4] is equal toShowing 1 to 8 of 8 entries. :Assertion Passed
+test_step_click Fleet Management
+test_step_click Submit
+Assertion Passed: Expected Showing 1 to 3 of 3 entries for the Xpath/html/body/app-root/app-layout/section/app-orphanapp/div[4]/div/div/div/div[4] is equal toShowing 1 to 3 of 3 entries. :Assertion Passed
+test_step_click Log Out
+[32m.[0m
+
+
+1 spec, 0 failures
+Finished in 35.917 seconds
+
+[15:49:28] I/launcher - 0 instance(s) of WebDriver still running
+[15:49:28] I/launcher - chrome #01 passed

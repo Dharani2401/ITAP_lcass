@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="1" time="27.057">
+ <testsuite name="AS400" timestamp="2022-04-25T16:33:57" hostname="localhost" time="27.057" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="AS400" name="RulesReportShowCodeEnableCheck" time="27.054" />
+ </testsuite>
+</testsuites>

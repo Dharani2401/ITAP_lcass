@@ -1,0 +1,30 @@
+[13:47:03] I/launcher - Running 1 instances of WebDriver
+[13:47:03] I/hosted - Using the selenium server at http://localhost:4444/wd/hub
+Started
+null
+test_step_inputadmin
+test_step_inputadmin1
+test_step_click Login
+test_step_click Master Inventory
+test_step_click All
+test_step_click Submit
+[13:47:27] W/element - more than one element found for locator By(xpath,  //td) - the first result will be used
+[13:47:27] W/element - more than one element found for locator By(xpath,  //td) - the first result will be used
+[13:47:28] W/element - more than one element found for locator By(xpath,  //td) - the first result will be used
+test_step_click GDPR96
+[13:47:28] W/element - more than one element found for locator By(xpath,  //td) - the first result will be used
+[13:47:31] W/element - more than one element found for locator By(xpath,  //td) - the first result will be used
+presence
+xpath in same page
+assert GDPR96
+[13:47:32] W/element - more than one element found for locator By(xpath, //td) - the first result will be used
+GDPR96
+Assertion Passed: Expected GDPR96 for the Xpath//td is equal to GDPR96 . :Assertion Passed
+[32m.[0m
+
+
+1 spec, 0 failures
+Finished in 23.535 seconds
+
+[13:47:32] I/launcher - 0 instance(s) of WebDriver still running
+[13:47:32] I/launcher - chrome #01 passed
