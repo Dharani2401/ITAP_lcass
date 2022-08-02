@@ -1,1 +1,0 @@
-python  D:\\iTAP\\Recorded_Scenarios\\json\\1\\script.py
