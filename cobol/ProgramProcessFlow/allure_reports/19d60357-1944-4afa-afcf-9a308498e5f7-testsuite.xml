@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1649758487291' stop='1649758514277'>
+    <name>lcass</name>
+    <title>lcass</title>
+    <test-cases>
+        <test-case start='1649758487291' status='passed' stop='1649758514276'>
+            <name>ruleharvesting1</name>
+            <title>ruleharvesting1</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot1' source='3d7e2491-d156-4ab0-9578-d3a23725930c-attachment.png' type='image/png' size='29671'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,23 @@
+[19:10:36] I/launcher - Running 1 instances of WebDriver
+[19:10:36] I/hosted - Using the selenium server at http://localhost:4444/wd/hub
+Started
+null
+test_step_inputadmin
+test_step_inputadmin1
+test_step_click Login
+test_step_click Flow Diagrams
+test_step_click Call Chain
+test_step_click ACCOUNTS PAYABLE
+test_step_click COBOL
+test_step_click ABEND
+test_step_click Forward Call Chain
+test_step_click Submit
+Assertion Passed: Expected Data not available for selected component! for the Xpath/html/body/app-root/app-layout/section/app-callchainapp/div[3]/div/div[7]/label is equal toData not available for selected component!. :Assertion Passed
+[32m.[0m
+
+
+1 spec, 0 failures
+Finished in 28.732 seconds
+
+[19:11:10] I/launcher - 0 instance(s) of WebDriver still running
+[19:11:10] I/launcher - chrome #01 passed

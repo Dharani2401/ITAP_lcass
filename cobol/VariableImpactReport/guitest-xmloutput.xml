@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="1" time="30.272">
+ <testsuite name="Cobol" timestamp="2022-04-12T14:41:27" hostname="localhost" time="30.272" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Cobol" name="VariableImpactReport" time="30.27" />
+ </testsuite>
+</testsuites>

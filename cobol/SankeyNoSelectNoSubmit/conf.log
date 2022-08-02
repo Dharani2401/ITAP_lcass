@@ -1,0 +1,44 @@
+[10:57:59] I/launcher - Running 1 instances of WebDriver
+[10:57:59] I/hosted - Using the selenium server at http://localhost:4444/wd/hub
+Started
+null
+test_step_inputadmin
+test_step_inputadmin1
+test_step_click Login
+test_step_click Sankey Diagram
+presence
+Assertion Failed: Expected element xpath/html/body/app-root/app-layout/section/app-sankey/div[2]/div[5]/button is present in current page. :Assertion Failed
+[31mF[0m
+
+Failures:
+1) Cobol SankeyNoSelectNoSubmit
+  Message:
+[31m    NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.[0m
+  Stack:
+    NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+        at C:\Users\es00780451\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver.js:847:16
+        at new ManagedPromise (C:\Users\es00780451\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1077:7)
+        at ControlFlow.promise (C:\Users\es00780451\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2505:12)
+        at C:\Users\es00780451\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver.js:846:34
+        at C:\Users\es00780451\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1684:12
+        at ManagedPromise.invokeCallback_ (C:\Users\es00780451\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1376:14)
+        at TaskQueue.execute_ (C:\Users\es00780451\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+        at TaskQueue.executeNext_ (C:\Users\es00780451\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+        at C:\Users\es00780451\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2927:27
+        at C:\Users\es00780451\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:668:7
+    From: Task: WebDriver.takeScreenshot()
+        at thenableWebDriverProxy.schedule (C:\Users\es00780451\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver.js:807:17)
+        at thenableWebDriverProxy.takeScreenshot (C:\Users\es00780451\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver.js:1085:17)
+        at run (C:\Users\es00780451\AppData\Roaming\npm\node_modules\protractor\built\browser.js:58:33)
+        at ProtractorBrowser.to.<computed> [as takeScreenshot] (C:\Users\es00780451\AppData\Roaming\npm\node_modules\protractor\built\browser.js:66:16)
+        at UserContext.<anonymous> (D:\iTAP\Recorded_Scenarios\Cobol\SankeyNoSelectNoSubmit\conf.js:30:14)
+
+1 spec, 1 failure
+Finished in 26.484 seconds
+
+[31mAn error was thrown in an afterAll[0m
+[31mAfterAll NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.[0m
+[10:58:32] I/launcher - 0 instance(s) of WebDriver still running
+[10:58:32] I/launcher - chrome #01 failed 1 test(s)
+[10:58:32] I/launcher - overall: 1 failed spec(s)
+[10:58:32] E/launcher - Process exited with error code 1

@@ -1,0 +1,54 @@
+[11:34:07] I/launcher - Running 1 instances of WebDriver
+[11:34:07] I/hosted - Using the selenium server at http://localhost:4444/wd/hub
+Started
+null
+test_step_inputadmin
+test_step_inputadmin1
+test_step_click Login
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-dashboard/div[1]/div[2]/div[1]/a/app-stat/div/div is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-dashboard/div[1]/div[2]/div[2]/a/app-stat/div/div is present in current page. :Assertion Passed
+Assertion Passed: Expected 88 for the Xpath/html/body/app-root/app-layout/section/app-dashboard/div[1]/div[2]/div[1]/a/app-stat/div/div/div/div[2]/div[1]/h2 is equal to88. :Assertion Passed
+Assertion Passed: Expected 35802 for the Xpath/html/body/app-root/app-layout/section/app-dashboard/div[1]/div[2]/div[2]/a/app-stat/div/div/div/div[2]/div[1]/h2 is equal to35802. :Assertion Passed
+Assertion Passed: Expected 18 for the Xpath/html/body/app-root/app-layout/section/app-dashboard/div[1]/div[2]/div[3]/a/app-stat/div/div/div/div[2]/div[1]/h2 is equal to18. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-dashboard/div[1]/div[2]/div[3]/a/app-stat/div/div is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-dashboard/div[1]/div[4]/div[1]/a/app-stat/div is present in current page. :Assertion Passed
+Assertion Passed: Expected 49 for the Xpath/html/body/app-root/app-layout/section/app-dashboard/div[1]/div[4]/div[1]/a/app-stat/div/div/div/div[2]/div[1]/h2 is equal to49. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-dashboard/div[1]/div[4]/div[2]/a/app-stat/div is present in current page. :Assertion Passed
+Assertion Passed: Expected 20 for the Xpath/html/body/app-root/app-layout/section/app-dashboard/div[1]/div[4]/div[2]/a/app-stat/div/div/div/div[2]/div[1]/h2 is equal to20. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-dashboard/div[1]/div[4]/div[3]/a/app-stat/div/div is present in current page. :Assertion Passed
+Assertion Passed: Expected 315 for the Xpath/html/body/app-root/app-layout/section/app-dashboard/div[1]/div[4]/div[3]/a/app-stat/div/div/div/div[2]/div[1]/h2 is equal to315. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-dashboard/div[3]/div/div/div[1] is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-dashboard/div[4]/div[1]/div/div[1] is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-dashboard/div[4]/div[2]/div/div[1] is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-dashboard/div[5]/div[1]/div/div[1] is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-dashboard/div[5]/div[2]/div/div[1] is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-dashboard/div[6]/div[1]/div/div[1] is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-dashboard/div[6]/div[2]/div/div[1] is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-dashboard/div[7]/div[1]/div/div[1] is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-dashboard/div[7]/div[2]/div/div[1] is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-dashboard/div[8]/div/div/div[1] is present in current page. :Assertion Passed
+test_step_click Log Out
+[32m.[0m
+
+
+1 spec, 0 failures
+Finished in 22.398 seconds
+
+[11:34:36] I/launcher - 0 instance(s) of WebDriver still running
+[11:34:36] I/launcher - chrome #01 passed

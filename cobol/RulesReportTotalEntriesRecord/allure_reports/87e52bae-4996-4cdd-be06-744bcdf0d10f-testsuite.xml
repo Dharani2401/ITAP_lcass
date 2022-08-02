@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1651046901896' stop='1651046918664'>
+    <name>java</name>
+    <title>java</title>
+    <test-cases>
+        <test-case start='1651046901897' status='passed' stop='1651046918664'>
+            <name>GlossarySpinnerIconPresence</name>
+            <title>GlossarySpinnerIconPresence</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot1' source='be48164d-2fd1-4507-b6d7-e262cec58eb1-attachment.png' type='image/png' size='35115'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

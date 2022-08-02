@@ -1,0 +1,20 @@
+[15:15:49] I/launcher - Running 1 instances of WebDriver
+[15:15:49] I/hosted - Using the selenium server at http://localhost:4444/wd/hub
+Started
+null
+test_step_inputadmin
+test_step_inputadmin1
+test_step_click Login
+test_step_click User Guide
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-charts/p is present in current page. :Assertion Passed
+test_step_click Dashboard
+test_step_click Log Out
+[32m.[0m
+
+
+1 spec, 0 failures
+Finished in 30.63 seconds
+
+[15:16:26] I/launcher - 0 instance(s) of WebDriver still running
+[15:16:26] I/launcher - chrome #01 passed
