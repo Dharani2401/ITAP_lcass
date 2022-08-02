@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1650873713044' stop='1650873739685'>
+    <name>Natural</name>
+    <title>Natural</title>
+    <test-cases>
+        <test-case start='1650873713045' status='passed' stop='1650873739683'>
+            <name>GlossarySpinner</name>
+            <title>GlossarySpinner</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot1' source='d68d6337-1548-4de8-ac7a-7e55a0ae9815-attachment.png' type='image/png' size='52269'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

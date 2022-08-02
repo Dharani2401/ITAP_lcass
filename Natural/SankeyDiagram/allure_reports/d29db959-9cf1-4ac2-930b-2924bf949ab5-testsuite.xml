@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1650615975873' stop='1650616014415'>
+    <name>Cobol</name>
+    <title>Cobol</title>
+    <test-cases>
+        <test-case start='1650615975873' status='passed' stop='1650616014414'>
+            <name>ValidationRulesTotalEntriesRecord</name>
+            <title>ValidationRulesTotalEntriesRecord</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot1' source='3026e747-44e2-4f54-b5b3-e6eca5bf310f-attachment.png' type='image/png' size='35203'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

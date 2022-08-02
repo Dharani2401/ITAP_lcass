@@ -1,0 +1,14 @@
+failed:Message: 
+
+
+test_step_input sdgdhfd
+test_step_assert Assertion: //input[@name="password"] not equal //input[@name="user-name"]
+test_step_input ffgjf
+
+Assertion Failed : expected text [] got text [] are equal 
+ Execution stopped at : Assert multiple locators of class - //input[@name="login-button"] 
+xpath list ['Open_Browser', '//input[@name="user-name"]', '//input[@name="user-name"]', '//input[@name="password"]']
+value list ['https://www.saucedemo.com/', 'sdgdhfd', '//input[@name="password"]', 'ffgjf']
+class name list ['', 'input_error form_input', 'input_error form_input', 'input_error form_input']
+text list ['', '', '', ''] 
+ total time taken : 0:00:27

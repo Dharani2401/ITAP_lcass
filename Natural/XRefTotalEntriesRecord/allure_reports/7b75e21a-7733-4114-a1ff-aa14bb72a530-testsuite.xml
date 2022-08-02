@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1650870358678' stop='1650870384774'>
+    <name>Natural</name>
+    <title>Natural</title>
+    <test-cases>
+        <test-case start='1650870358678' status='passed' stop='1650870384773'>
+            <name>GlossaryTotalEntriesRecord</name>
+            <title>GlossaryTotalEntriesRecord</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot1' source='ae658524-3b70-43ac-9a7f-f2bada6e9c13-attachment.png' type='image/png' size='35203'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

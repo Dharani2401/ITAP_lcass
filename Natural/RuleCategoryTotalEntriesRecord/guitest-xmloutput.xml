@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="1" time="36.285">
+ <testsuite name="Natural" timestamp="2022-04-25T12:16:53" hostname="localhost" time="36.285" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Natural" name="RuleCategoryTotalEntriesRecord" time="36.282" />
+ </testsuite>
+</testsuites>

@@ -1,0 +1,25 @@
+[12:40:41] I/launcher - Running 1 instances of WebDriver
+[12:40:41] I/hosted - Using the selenium server at http://localhost:4444/wd/hub
+Started
+null
+test_step_inputadmin
+test_step_inputadmin1
+test_step_click Login
+test_step_click Missing Component
+test_step_click All
+test_step_click Submit
+presence
+xpath in same page
+assert Missing Component
+Missing Component
+Assertion Passed: Expected Missing Component Report for the Xpath/html/body/app-root/app-layout/section/app-missingcompapp/div[1]/app-page-header/div/div/ol/li[2] contain  Missing Component . :Assertion Passed
+Assertion Passed: Expected Showing 1 to 10 of 51 entries for the Xpath/html/body/app-root/app-layout/section/app-missingcompapp/div[3]/div/div/div/div[4] is equal toShowing 1 to 10 of 51 entries. :Assertion Passed
+test_step_click Log Out
+[32m.[0m
+
+
+1 spec, 0 failures
+Finished in 29.256 seconds
+
+[12:41:17] I/launcher - 0 instance(s) of WebDriver still running
+[12:41:17] I/launcher - chrome #01 passed

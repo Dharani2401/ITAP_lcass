@@ -1,0 +1,31 @@
+[13:10:02] I/launcher - Running 1 instances of WebDriver
+[13:10:02] I/hosted - Using the selenium server at http://localhost:4444/wd/hub
+Started
+null
+test_step_inputadmin
+test_step_inputadmin1
+test_step_click Login
+test_step_click Business Rule Extraction
+test_step_click Rule Category
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-bre3/div[3]/div[3]/select is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-bre3/div[3]/div[4]/button is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-bre3/div[4]/div[2]/input is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-bre3/div[4]/div[3]/button is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-bre3/div[4]/div[4]/button is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-bre3/div[4]/div[7]/a/img is present in current page. :Assertion Passed
+test_step_click Dashboard
+test_step_click Log Out
+[32m.[0m
+
+
+1 spec, 0 failures
+Finished in 35.011 seconds
+
+[13:10:44] I/launcher - 0 instance(s) of WebDriver still running
+[13:10:44] I/launcher - chrome #01 passed

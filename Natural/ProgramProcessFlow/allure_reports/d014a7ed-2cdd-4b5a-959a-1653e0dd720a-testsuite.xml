@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1650863711305' stop='1650863735543'>
+    <name>Cobol</name>
+    <title>Cobol</title>
+    <test-cases>
+        <test-case start='1650863711306' status='passed' stop='1650863735542'>
+            <name>GlossarySpinner</name>
+            <title>GlossarySpinner</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot1' source='340b2e8c-7b70-4ca2-8df1-8b017dfbbadc-attachment.png' type='image/png' size='62297'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,23 @@
+[12:35:53] I/launcher - Running 1 instances of WebDriver
+[12:35:53] I/hosted - Using the selenium server at http://localhost:4444/wd/hub
+Started
+null
+test_step_inputadmin
+test_step_inputadmin1
+test_step_click Login
+test_step_click Glossary
+presence
+xpath in same page
+assert Glossary
+Glossary
+Assertion Passed: Expected Glossary Report for the Xpath/html/body/app-root/app-layout/section/app-bre/div[1]/app-page-header/div/div/ol/li[2] contain  Glossary . :Assertion Passed
+Assertion Passed: Expected Showing 1 to 10 of 1,753 entries for the Xpath/html/body/app-root/app-layout/section/app-bre/div[4]/div[1]/div/div/div[4] contain Showing 1 to 10 of 1. :Assertion Passed
+test_step_click Log Out
+[32m.[0m
+
+
+1 spec, 0 failures
+Finished in 26.117 seconds
+
+[12:36:25] I/launcher - 0 instance(s) of WebDriver still running
+[12:36:25] I/launcher - chrome #01 passed
