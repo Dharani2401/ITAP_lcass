@@ -1,0 +1,29 @@
+[13:28:11] I/launcher - Running 1 instances of WebDriver
+[13:28:11] I/hosted - Using the selenium server at http://localhost:4444/wd/hub
+Started
+null
+test_step_inputadmin
+test_step_inputadmin1
+test_step_click Login
+test_step_click Business Rule Extraction
+test_step_click Rules report
+test_step_click Miscellaneous
+test_step_click AEIN1595.NAT
+test_step_click Submit
+test_step_click  MAIN 
+presence
+Assertion Passed: Expected element xpath /html/body/ngb-modal-window/div/div/div[1]/div/button[4] is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/ngb-modal-window/div/div/div[1]/div/button[2] is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/ngb-modal-window/div/div/div[1]/div/button[3] is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/ngb-modal-window/div/div/div[1]/div/button[1] is present in current page. :Assertion Passed
+[32m.[0m
+
+
+1 spec, 0 failures
+Finished in 33.092 seconds
+
+[13:28:51] I/launcher - 0 instance(s) of WebDriver still running
+[13:28:51] I/launcher - chrome #01 passed

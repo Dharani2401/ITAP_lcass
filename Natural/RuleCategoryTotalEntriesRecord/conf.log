@@ -1,0 +1,29 @@
+[12:16:48] I/launcher - Running 1 instances of WebDriver
+[12:16:48] I/hosted - Using the selenium server at http://localhost:4444/wd/hub
+Started
+null
+test_step_inputadmin
+test_step_inputadmin1
+test_step_click Login
+test_step_click Business Rule Extraction
+test_step_click Rule Category
+test_step_click Business Action
+test_step_click Submit
+presence
+xpath in same page
+assert Rule Category
+Rule Category
+Assertion Passed: Expected Rule Category View Report for the Xpath/html/body/app-root/app-layout/section/app-bre3/div[1]/app-page-header/div/div/ol/li[2] contain  Rule Category . :Assertion Passed
+Assertion Passed: Expected Total no of records: 6405 for the Xpath/html/body/app-root/app-layout/section/app-bre3/div[4]/div[5]/label is equal toTotal no of records: 6405. :Assertion Passed
+test_step_click Technical Action
+test_step_click Submit
+Assertion Passed: Expected Total no of records: 5722 for the Xpath/html/body/app-root/app-layout/section/app-bre3/div[4]/div[5]/label is equal toTotal no of records: 5722. :Assertion Passed
+test_step_click Log Out
+[32m.[0m
+
+
+1 spec, 0 failures
+Finished in 36.306 seconds
+
+[12:17:30] I/launcher - 0 instance(s) of WebDriver still running
+[12:17:30] I/launcher - chrome #01 passed

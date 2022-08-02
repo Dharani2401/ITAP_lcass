@@ -1,0 +1,18 @@
+[13:56:29] I/launcher - Running 1 instances of WebDriver
+[13:56:29] I/hosted - Using the selenium server at http://localhost:4444/wd/hub
+Started
+null
+test_step_inputadmin
+test_step_inputadmin1
+test_step_click Login
+test_step_click Collapse Sidebar
+Assertion Passed: Expected  for the Xpath/html/body/app-root/app-layout/app-sidebar/nav/div[2]/span contain Collapse Sidebar. :Assertion Passed
+test_step_click Log Out
+[32m.[0m
+
+
+1 spec, 0 failures
+Finished in 19.249 seconds
+
+[13:56:54] I/launcher - 0 instance(s) of WebDriver still running
+[13:56:54] I/launcher - chrome #01 passed

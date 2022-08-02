@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1650864155958' stop='1650864180972'>
+    <name>Cobol</name>
+    <title>Cobol</title>
+    <test-cases>
+        <test-case start='1650864155959' status='passed' stop='1650864180971'>
+            <name>VariableImpactNotPresenceSummaryView</name>
+            <title>VariableImpactNotPresenceSummaryView</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot1' source='03d5025c-a29c-4e37-ba94-aaf9b8f35186-attachment.png' type='image/png' size='32082'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

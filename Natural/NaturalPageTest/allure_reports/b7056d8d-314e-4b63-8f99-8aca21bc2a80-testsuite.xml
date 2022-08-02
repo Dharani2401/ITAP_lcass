@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1649842696996' stop='1649842727421'>
+    <name>Natural</name>
+    <title>Natural</title>
+    <test-cases>
+        <test-case start='1649842696997' status='passed' stop='1649842727420'>
+            <name>MasterInventoryComponentValue</name>
+            <title>MasterInventoryComponentValue</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot1' source='09731c1b-6447-43e4-9bd7-3f93a5ab6581-attachment.png' type='image/png' size='81615'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

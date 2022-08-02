@@ -1,0 +1,20 @@
+[15:21:57] I/launcher - Running 1 instances of WebDriver
+[15:21:57] I/hosted - Using the selenium server at http://localhost:4444/wd/hub
+Started
+null
+test_step_inputadmin
+test_step_inputadmin1
+test_step_click Login
+test_step_click Master Inventory
+test_step_click All
+test_step_click Submit
+test_step_inputMAP
+Assertion Passed: Expected MAP for the Xpath/html/body/app-root/app-layout/section/app-masterinvapp/div[4]/div/div/div/div[3]/div[2]/table/tbody/tr[1]/td[2] contain MAP. :Assertion Passed
+[32m.[0m
+
+
+1 spec, 0 failures
+Finished in 25.797 seconds
+
+[15:22:29] I/launcher - 0 instance(s) of WebDriver still running
+[15:22:29] I/launcher - chrome #01 passed
