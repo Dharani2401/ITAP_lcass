@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<testsuites disabled="0" errors="0" failures="0" tests="1" time="34.388">
- <testsuite name="vb6" timestamp="2022-04-25T15:12:59" hostname="localhost" time="34.388" errors="0" tests="1" skipped="0" disabled="0" failures="0">
-  <testcase classname="vb6" name="variablepage" time="34.383" />
- </testsuite>
-</testsuites>

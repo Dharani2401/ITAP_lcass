@@ -1,1 +1,0 @@
-Open Browser    https://lcaas.techmahindra.com/vb6/login    ${BROWSER},Input Text    //input[@id="Uname"]    admin,Input Text    //input[@id="Upwd"]    admin1,Click Element    //button[@id="loginBtn"],Click Element    xpath=(//div)[45],Select Value    //select[@id="appln"]    All,Click Element    //button[@id="submitBtn"]
