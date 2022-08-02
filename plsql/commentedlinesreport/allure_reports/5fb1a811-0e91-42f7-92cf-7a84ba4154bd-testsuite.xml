@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1649834248661' stop='1649834281152'>
+    <name>Natural</name>
+    <title>Natural</title>
+    <test-cases>
+        <test-case start='1649834248662' status='passed' stop='1649834281149'>
+            <name>ProgramProcessFlow</name>
+            <title>ProgramProcessFlow</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot1' source='ed79063f-bd7b-45bf-a79d-4a86b2f743dd-attachment.png' type='image/png' size='35203'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

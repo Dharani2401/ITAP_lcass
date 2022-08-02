@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1651219524025' stop='1651219549115'>
+    <name>plsql</name>
+    <title>plsql</title>
+    <test-cases>
+        <test-case start='1651219524026' status='passed' stop='1651219549114'>
+            <name>checkSearch</name>
+            <title>checkSearch</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot1' source='1fb7e313-660a-4b46-9743-bec7c307a084-attachment.png' type='image/png' size='35115'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

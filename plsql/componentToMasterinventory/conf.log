@@ -1,0 +1,18 @@
+[17:15:18] I/launcher - Running 1 instances of WebDriver
+[17:15:18] I/hosted - Using the selenium server at http://localhost:4444/wd/hub
+Started
+null
+test_step_inputdemouser
+test_step_inputdemouser1
+test_step_click Login
+test_step_click 12
+Assertion Passed: Expected master inventory report for the Xpath/html/body/app-root/app-layout/section/app-masterinvapp/div[1]/app-page-header/div/div/ol/li[2] contain master inventory report. :Assertion Passed
+test_step_click Log Out
+[32m.[0m
+
+
+1 spec, 0 failures
+Finished in 31.559 seconds
+
+[17:16:00] I/launcher - 0 instance(s) of WebDriver still running
+[17:16:00] I/launcher - chrome #01 passed

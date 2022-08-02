@@ -1,0 +1,50 @@
+[17:13:15] I/launcher - Running 1 instances of WebDriver
+[17:13:15] I/hosted - Using the selenium server at http://localhost:4444/wd/hub
+Started
+null
+test_step_inputdemouser
+test_step_inputdemouser1
+test_step_click Login
+test_step_click Business Rule Extraction
+test_step_click Rules report
+test_step_click All
+test_step_click PACKAGE
+test_step_click EPIC_ORDERS_SPEC_CHECKS_PKG
+[17:13:42] W/element - more than one element found for locator By(xpath,  //button) - the first result will be used
+[17:13:42] W/element - more than one element found for locator By(xpath,  //button) - the first result will be used
+[17:13:42] W/element - more than one element found for locator By(xpath,  //button) - the first result will be used
+test_step_click Submit
+[17:13:42] W/element - more than one element found for locator By(xpath,  //button) - the first result will be used
+[17:13:42] W/element - more than one element found for locator By(xpath,  //button) - the first result will be used
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-breplsql-app/div[3]/div/div[2]/select/option[2] is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-breplsql-app/div[4]/div/div[2]/select/option[2] is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-breplsql-app/div[5]/div/div[2]/select/option[2] is present in current page. :Assertion Passed
+Assertion Passed: Expected Showing 1 to 10 of 213 entries for the Xpath/html/body/app-root/app-layout/section/app-breplsql-app/div[7]/div/div/div/div[4] contain Showing 1 to 10 of 213 entries. :Assertion Passed
+test_step_click Employee Record
+test_step_click STAND ALONE
+test_step_click FUNCTION
+[17:13:47] W/element - more than one element found for locator By(xpath,  //button) - the first result will be used
+[17:13:47] W/element - more than one element found for locator By(xpath,  //button) - the first result will be used
+[17:13:47] W/element - more than one element found for locator By(xpath,  //button) - the first result will be used
+test_step_click Submit
+[17:13:47] W/element - more than one element found for locator By(xpath,  //button) - the first result will be used
+[17:13:47] W/element - more than one element found for locator By(xpath,  //button) - the first result will be used
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-breplsql-app/div[3]/div/div[2]/select/option[3] is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-breplsql-app/div[4]/div/div[2]/select/option[3] is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-breplsql-app/div[5]/div/div[2]/select/option[2] is present in current page. :Assertion Passed
+Assertion Passed: Expected Showing 1 to 2 of 2 entries for the Xpath/html/body/app-root/app-layout/section/app-breplsql-app/div[7]/div/div/div/div[4] contain Showing 1 to 2 of 2 entries. :Assertion Passed
+test_step_click Log Out
+[32m.[0m
+
+
+1 spec, 0 failures
+Finished in 32.332 seconds
+
+[17:13:51] I/launcher - 0 instance(s) of WebDriver still running
+[17:13:51] I/launcher - chrome #01 passed

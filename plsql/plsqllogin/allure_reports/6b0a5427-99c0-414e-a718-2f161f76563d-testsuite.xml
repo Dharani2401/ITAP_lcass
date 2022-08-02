@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1649746203154' stop='1649746221683'>
+    <name>lcass</name>
+    <title>lcass</title>
+    <test-cases>
+        <test-case start='1649746203155' status='passed' stop='1649746221682'>
+            <name>callchain1</name>
+            <title>callchain1</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot1' source='3620be48-5000-421d-a4d4-31a4c9eebb49-attachment.png' type='image/png' size='39519'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

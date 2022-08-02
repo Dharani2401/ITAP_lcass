@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1650540945861' stop='1650540971280'>
+    <name>Natural</name>
+    <title>Natural</title>
+    <test-cases>
+        <test-case start='1650540945862' status='passed' stop='1650540971279'>
+            <name>DashboardPageTest</name>
+            <title>DashboardPageTest</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot1' source='3d1a1a05-8a42-4efe-9ab9-a005e417c56f-attachment.png' type='image/png' size='35203'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

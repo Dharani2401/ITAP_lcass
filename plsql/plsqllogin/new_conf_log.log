@@ -1,0 +1,4 @@
+{'Date': '27/04/2022', 'Time': '15:09:33', 'Application Name': 'plsql', 'Scenario Name': 'plsqllogin', 'Status': 'failed', 'Time in Seconds': '-', 'WebDriver Instance': '-', 'Message': [], 'Error lines in spec': [], 'Test Description': '1. Open browser and navigate to URL: "https://lcaas.techmahindra.com/plsql" <br>2. Enter value `demouser` in the field with id "Uname"<br>3. Click on the button with id "loginBtn"<br>4. Enter value `demouser1` in the field with id "Upwd"<br>'},
+
+{'Date': '27/04/2022', 'Time': '15:22:25', 'Application Name': 'plsql', 'Scenario Name': 'plsqllogin', 'Status': 'failed', 'Time in Seconds': '-', 'WebDriver Instance': '-', 'Message': [], 'Error lines in spec': [], 'Test Description': '1. Open browser and navigate to URL: "https://lcaas.techmahindra.com/plsql" <br>2. Enter value `demouser` in the field with id "Uname"<br>3. Click on the button with id "loginBtn"<br>4. Enter value `demouser1` in the field with id "Upwd"<br>'},
+

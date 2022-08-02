@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1650541409969' stop='1650541436672'>
+    <name>Natural</name>
+    <title>Natural</title>
+    <test-cases>
+        <test-case start='1650541409970' status='passed' stop='1650541436671'>
+            <name>XRefReportClearSearch</name>
+            <title>XRefReportClearSearch</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot1' source='02676e6e-6d96-4ca6-a079-bfaccb86ace5-attachment.png' type='image/png' size='35203'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

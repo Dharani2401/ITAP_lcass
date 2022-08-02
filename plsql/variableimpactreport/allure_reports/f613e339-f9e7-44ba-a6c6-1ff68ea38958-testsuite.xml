@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1649763863816' stop='1649763899107'>
+    <name>Cobol</name>
+    <title>Cobol</title>
+    <test-cases>
+        <test-case start='1649763863817' status='passed' stop='1649763899105'>
+            <name>MasterInventorySearchCheck</name>
+            <title>MasterInventorySearchCheck</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot1' source='05ccfbdd-52d5-4e3b-85f8-33e419100206-attachment.png' type='image/png' size='35203'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

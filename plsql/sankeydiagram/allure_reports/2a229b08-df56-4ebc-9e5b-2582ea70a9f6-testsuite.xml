@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1649739395923' stop='1649739431010'>
+    <name>Cobol</name>
+    <title>Cobol</title>
+    <test-cases>
+        <test-case start='1649739395924' status='passed' stop='1649739431009'>
+            <name>XRefReport</name>
+            <title>XRefReport</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot1' source='ad372c4c-94f7-481e-bf66-55d4349eb6fb-attachment.png' type='image/png' size='35203'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

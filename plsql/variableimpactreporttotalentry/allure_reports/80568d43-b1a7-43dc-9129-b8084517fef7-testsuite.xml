@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1651477025010' stop='1651477048810'>
+    <name>vbnet</name>
+    <title>vbnet</title>
+    <test-cases>
+        <test-case start='1651477025010' status='passed' stop='1651477048809'>
+            <name>ruleharvest1</name>
+            <title>ruleharvest1</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot1' source='887fe213-6a82-425e-8fdc-4c089667eccc-attachment.png' type='image/png' size='35115'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

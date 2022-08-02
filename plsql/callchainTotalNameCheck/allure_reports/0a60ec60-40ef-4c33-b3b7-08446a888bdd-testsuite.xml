@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1650863033228' stop='1650863069148'>
+    <name>Cobol</name>
+    <title>Cobol</title>
+    <test-cases>
+        <test-case start='1650863033229' status='passed' stop='1650863069147'>
+            <name>RulesReportParaNameDownloadButtonCheck</name>
+            <title>RulesReportParaNameDownloadButtonCheck</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot1' source='d0a349db-938f-49c8-b760-c9566af30378-attachment.png' type='image/png' size='63714'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

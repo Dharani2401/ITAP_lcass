@@ -1,0 +1,54 @@
+[11:43:09] I/launcher - Running 1 instances of WebDriver
+[11:43:09] I/hosted - Using the selenium server at http://localhost:4444/wd/hub
+Started
+null
+test_step_inputdemouser
+test_step_inputdemouser1
+test_step_click Login
+test_step_click Business Rule Extraction
+test_step_click Detailed Report
+Assertion Passed: Expected Detailed Report for the Xpath/html/body/app-root/app-layout/section/app-breplsql-app/div[1]/app-page-header/div/div/ol/li[2] contain Detailed Report. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-breplsql-app/div[3]/div/div[1]/label is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-breplsql-app/div[3]/div/div[2]/select is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-breplsql-app/div[4]/div/div[1]/label is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-breplsql-app/div[4]/div/div[2]/select is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-breplsql-app/div[5]/div/div[1]/label is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-breplsql-app/div[7]/div/div/div/div[1]/label is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-breplsql-app/div[5]/div/div[3]/button is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-breplsql-app/div[7]/div/div/div/div[2]/label is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-breplsql-app/div[7]/div/div/a/img is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-breplsql-app/div[7]/div/div/div/div[3]/div[1]/div/table/thead/tr/th[1] is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-breplsql-app/div[7]/div/div/div/div[3]/div[1]/div/table/thead/tr/th[2] is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-breplsql-app/div[7]/div/div/div/div[3]/div[1]/div/table/thead/tr/th[3] is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-breplsql-app/div[7]/div/div/div/div[3]/div[1]/div/table/thead/tr/th[4] is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-breplsql-app/div[7]/div/div/div/div[3]/div[1]/div/table/thead/tr/th[5] is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-breplsql-app/div[7]/div/div/div/div[3]/div[1]/div/table/thead/tr/th[6] is present in current page. :Assertion Passed
+Assertion Passed: Expected No data available in table for the Xpath/html/body/app-root/app-layout/section/app-breplsql-app/div[7]/div/div/div/div[3]/div[2]/table/tbody/tr/td is equal toNo data available in table. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-breplsql-app/div[7]/div/div/div/div[4] is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-breplsql-app/div[7]/div/div/div/div[5] is present in current page. :Assertion Passed
+test_step_click Log Out
+[32m.[0m
+
+
+1 spec, 0 failures
+Finished in 40.272 seconds
+
+[11:43:57] I/launcher - 0 instance(s) of WebDriver still running
+[11:43:57] I/launcher - chrome #01 passed

@@ -1,0 +1,1 @@
+Open Browser    https://lcaas.techmahindra.com/plsql/login    ${BROWSER},Input Text    //input[@id="Uname"]    demouser,Input Text    //input[@id="Upwd"]    demouser1,Click Element    //button[@id="loginBtn"],Click Element    xpath=(//span)[7],Click Element    xpath=(//span)[10],Click Link    //a[@href="/plsql/login"]

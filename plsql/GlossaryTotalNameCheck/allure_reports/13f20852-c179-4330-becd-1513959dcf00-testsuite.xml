@@ -1,0 +1,64 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1651218376050' stop='1651218465757'>
+    <name>plsql</name>
+    <title>plsql</title>
+    <test-cases>
+        <test-case start='1651218376052' status='failed' stop='1651218465754'>
+            <name>Forwardcallchain</name>
+            <title>Forwardcallchain</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot1' source='ea34fcda-c1e9-45aa-a800-32457490be7c-attachment.png' type='image/png' size='39332'/>
+            </attachments>
+            <failure>
+                <message>Failed: Element taking too long to appear in the DOM
+                Wait timed out after 60033ms</message>
+                <stack-trace>TimeoutError: Element taking too long to appear in the DOM
+                Wait timed out after 60033ms
+                    at C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2201:17
+                    at ManagedPromise.invokeCallback_ (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1376:14)
+                    at TaskQueue.execute_ (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+                    at TaskQueue.executeNext_ (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+                    at C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2927:27
+                    at C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:668:7
+                    at runMicrotasks (&lt;anonymous>)
+                    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                From: Task: Element taking too long to appear in the DOM
+                    at scheduleWait (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2188:20)
+                    at ControlFlow.wait (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2517:12)
+                    at thenableWebDriverProxy.wait (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver.js:934:29)
+                    at run (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\built\browser.js:58:33)
+                    at ProtractorBrowser.to.&lt;computed> [as wait] (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\built\browser.js:66:16)
+                    at UserContext.&lt;anonymous> (D:\iTAP\Recorded_Scenarios\plsql\Forwardcallchain\spec.js:264:9)
+                    at C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
+                    at new ManagedPromise (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1077:7)
+                    at ControlFlow.promise (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2505:12)
+                    at schedulerExecute (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:95:18)
+                From: Task: Run it("Forwardcallchain") in control flow
+                    at UserContext.&lt;anonymous> (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:94:19)
+                    at attempt (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4297:26)
+                    at QueueRunner.run (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4217:20)
+                    at QueueRunner.execute (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4199:10)
+                    at Spec.queueRunnerFactory (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:909:35)
+                    at Spec.execute (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:526:10)
+                    at UserContext.fn (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:5340:37)
+                    at attempt (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4297:26)
+                    at QueueRunner.run (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4217:20)
+                    at QueueRunner.execute (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4199:10)
+                From asynchronous test: 
+                Error
+                    at Suite.&lt;anonymous> (D:\iTAP\Recorded_Scenarios\plsql\Forwardcallchain\spec.js:8:21)
+                    at addSpecsToSuite (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:1107:25)
+                    at Env.describe (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:1074:7)
+                    at describe (C:\Users\sv00810785\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4399:18)
+                    at Object.&lt;anonymous> (D:\iTAP\Recorded_Scenarios\plsql\Forwardcallchain\spec.js:7:15)
+                    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+                    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1155:10)
+                    at Module.load (node:internal/modules/cjs/loader:981:32)
+                    at Function.Module._load (node:internal/modules/cjs/loader:822:12)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

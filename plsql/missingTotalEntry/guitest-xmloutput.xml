@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="1" time="25.076">
+ <testsuite name="plsql" timestamp="2022-04-28T17:26:55" hostname="localhost" time="25.076" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="plsql" name="missingTotalEntry" time="25.076" />
+ </testsuite>
+</testsuites>

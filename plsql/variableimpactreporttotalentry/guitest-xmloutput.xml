@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="1" time="29.02">
+ <testsuite name="plsql" timestamp="2022-04-28T17:37:32" hostname="localhost" time="29.02" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="plsql" name="variableimpactreporttotalentry" time="29.019" />
+ </testsuite>
+</testsuites>
