@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="1" time="45.722">
+ <testsuite name="vb6" timestamp="2022-04-19T21:38:20" hostname="localhost" time="45.722" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="vb6" name="commentlines" time="45.721" />
+ </testsuite>
+</testsuites>

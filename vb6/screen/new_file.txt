@@ -1,0 +1,1 @@
+Open Browser    https://lcaas.techmahindra.com/vb6/login    ${BROWSER},Input Text    //input[@id="Uname"]    admin,Input Text    //input[@id="Upwd"]    admin1,Click Element    //button[@id="loginBtn"],Click Element    xpath=(//span)[11],Click Link    //a[@href="/vb6/screenHarvesting"],Click Element    //td

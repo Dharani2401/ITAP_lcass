@@ -1,0 +1,37 @@
+[15:43:55] I/launcher - Running 1 instances of WebDriver
+[15:43:55] I/hosted - Using the selenium server at http://localhost:4444/wd/hub
+Started
+null
+test_step_inputdemouser
+test_step_inputdemouser1
+test_step_click Login
+test_step_click Technical Debt Report
+test_step_click Orphan Report
+test_step_click All
+test_step_click Submit
+Assertion Passed: Expected Orphan/Driver Reports for the Xpath/html/body/app-root/app-layout/section/app-orphanapp/div[1]/app-page-header/div/div/ol/li[2] contain Orphan/Driver Reports. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-orphanapp/div[3]/div[2]/label is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-orphanapp/div[3]/div[4]/button is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-orphanapp/div[4]/div/div/div/div[1]/label is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-orphanapp/div[4]/div/div/div/div[2]/label is present in current page. :Assertion Passed
+presence
+Assertion Passed: Expected element xpath /html/body/app-root/app-layout/section/app-orphanapp/div[4]/div/div/a/img is present in current page. :Assertion Passed
+Assertion Passed: Expected COMPONENT_NAME for the Xpath/html/body/app-root/app-layout/section/app-orphanapp/div[4]/div/div/div/div[3]/div[1]/div/table/thead/tr/th[1] is equal toCOMPONENT_NAME. :Assertion Passed
+Assertion Passed: Expected COMPONENT_TYPE for the Xpath/html/body/app-root/app-layout/section/app-orphanapp/div[4]/div/div/div/div[3]/div[1]/div/table/thead/tr/th[2] is equal toCOMPONENT_TYPE. :Assertion Passed
+Assertion Passed: Expected APPLICATION for the Xpath/html/body/app-root/app-layout/section/app-orphanapp/div[4]/div/div/div/div[3]/div[1]/div/table/thead/tr/th[3] is equal toAPPLICATION. :Assertion Passed
+Assertion Passed: Expected Showing 1 to 8 of 8 entries for the Xpath/html/body/app-root/app-layout/section/app-orphanapp/div[4]/div/div/div/div[4] contain Showing 1 to 8 of 8 entries. :Assertion Passed
+Assertion Passed: Expected First for the Xpath/html/body/app-root/app-layout/section/app-orphanapp/div[4]/div/div/div/div[5]/a[1] is equal toFirst. :Assertion Passed
+Assertion Passed: Expected Last for the Xpath/html/body/app-root/app-layout/section/app-orphanapp/div[4]/div/div/div/div[5]/a[4] is equal toLast. :Assertion Passed
+test_step_click Log Out
+[32m.[0m
+
+
+1 spec, 0 failures
+Finished in 46.05 seconds
+
+[15:44:47] I/launcher - 0 instance(s) of WebDriver still running
+[15:44:47] I/launcher - chrome #01 passed

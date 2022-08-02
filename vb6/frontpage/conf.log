@@ -1,0 +1,22 @@
+[13:44:29] I/launcher - Running 1 instances of WebDriver
+[13:44:29] I/hosted - Using the selenium server at http://localhost:4444/wd/hub
+Started
+null
+test_step_inputdemouser
+test_step_inputdemouser1
+test_step_click Login
+Assertion Passed: Expected 30 for the Xpath/html/body/app-root/app-layout/section/app-dashboard/div[1]/div[2]/div[1]/a/app-stat/div/div/div/div[2]/div[1]/h2 is equal to30. :Assertion Passed
+Assertion Passed: Expected 10955 for the Xpath/html/body/app-root/app-layout/section/app-dashboard/div[1]/div[2]/div[2]/a/app-stat/div/div/div/div[2]/div[1]/h2 is equal to10955. :Assertion Passed
+Assertion Passed: Expected 13 for the Xpath/html/body/app-root/app-layout/section/app-dashboard/div[1]/div[2]/div[3]/a/app-stat/div/div/div/div[2]/div[1]/h2 is equal to13. :Assertion Passed
+Assertion Passed: Expected 8 for the Xpath/html/body/app-root/app-layout/section/app-dashboard/div[1]/div[4]/div[1]/a/app-stat/div/div/div/div[2]/div[1]/h2 is equal to8. :Assertion Passed
+Assertion Passed: Expected 1 for the Xpath/html/body/app-root/app-layout/section/app-dashboard/div[1]/div[4]/div[2]/a/app-stat/div/div/div/div[2]/div[1]/h2 is equal to1. :Assertion Passed
+Assertion Passed: Expected 2309 for the Xpath/html/body/app-root/app-layout/section/app-dashboard/div[1]/div[4]/div[3]/a/app-stat/div/div/div/div[2]/div[1]/h2 is equal to2309. :Assertion Passed
+test_step_click Log Out
+[32m.[0m
+
+
+1 spec, 0 failures
+Finished in 15.616 seconds
+
+[13:44:48] I/launcher - 0 instance(s) of WebDriver still running
+[13:44:48] I/launcher - chrome #01 passed
